@@ -1,0 +1,3502 @@
+[
+  {
+    "propertyName": "89635 Bahringer Drive",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "89635",
+      "street": "Bahringer Drive",
+      "city": "Burnsville",
+      "state": "Washington",
+      "stateAbbr": "TX",
+      "zipCode": "20588",
+      "country": "New Zealand",
+      "countryCode": "LB"
+    },
+    "price": "8961.74",
+    "rooms": {
+      "bedrooms": 9,
+      "bathrooms": 5
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Maude Ankunding",
+    "userID": "U-30579133-e67c",
+    "propertyID": "P-981138d0-2a19-4621-8d97-7016d176f8f6"
+  },
+  {
+    "propertyName": "14324 Schaefer Brooks",
+    "description": "From the outside this house looks old, but wonderful. It has been built with grey bricks and has walnut wood decorations. Tall, wide windows brighten up the house and have been added to the house in a very asymmetric way.",
+    "location": {
+      "buildingNumber": "14324",
+      "street": "Schaefer Brooks",
+      "city": "Springdale",
+      "state": "Montana",
+      "stateAbbr": "MS",
+      "zipCode": "31497-3129",
+      "country": "Nauru",
+      "countryCode": "TF"
+    },
+    "price": "21922.72",
+    "rooms": {
+      "bedrooms": 10,
+      "bathrooms": 1
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Liza Rath",
+    "userID": "U-214cad30-8840",
+    "propertyID": "P-4d173917-dc89-4146-886d-46b419b408ad"
+  },
+  {
+    "propertyName": "0939 King Canyon",
+    "description": "From the outside this house looks intimate and cozy. It has been built with sandstone and has tan stone decorations. Short, wide windows allow enough light to enter the home and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "0939",
+      "street": "King Canyon",
+      "city": "The Woodlands",
+      "state": "Alabama",
+      "stateAbbr": "ID",
+      "zipCode": "38583",
+      "country": "Holy See (Vatican City State)",
+      "countryCode": "MD"
+    },
+    "price": "23371.40",
+    "rooms": {
+      "bedrooms": 0,
+      "bathrooms": 10
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Jabari Stiedemann",
+    "userID": "U-b4c8092d-21ba",
+    "propertyID": "P-78d50c76-5d20-4d4e-af7a-b6465906971d"
+  },
+  {
+    "propertyName": "666 Bartoletti Pike",
+    "description": "From the outside this house looks snug and comfortable. It has been built with brown bricks and has white pine wooden decorations. Tall, squared windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "666",
+      "street": "Bartoletti Pike",
+      "city": "Pasco",
+      "state": "Pennsylvania",
+      "stateAbbr": "IN",
+      "zipCode": "45159-3254",
+      "country": "Iraq",
+      "countryCode": "MS"
+    },
+    "price": "7952.12",
+    "rooms": {
+      "bedrooms": 1,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Devante Morar",
+    "userID": "U-78ee9f56-148f",
+    "propertyID": "P-0dd89314-cfe0-4f00-b3ca-7ed1ce1d24f7"
+  },
+  {
+    "propertyName": "78341 Ritchie Branch",
+    "description": "From the outside this house looks cozy. It has been built with tan stones and has granite decorations. Small, squared windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "78341",
+      "street": "Ritchie Branch",
+      "city": "Gilbert",
+      "state": "South Carolina",
+      "stateAbbr": "CA",
+      "zipCode": "12279-2494",
+      "country": "Peru",
+      "countryCode": "PF"
+    },
+    "price": "34111.52",
+    "rooms": {
+      "bedrooms": 8,
+      "bathrooms": 10
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Ally Kozey",
+    "userID": "U-c5210459-ce55",
+    "propertyID": "P-53d9b70d-67ec-4844-aa44-dd81ad0ad806"
+  },
+  {
+    "propertyName": "356 Schuster Hill",
+    "description": "From the outside this house looks magnificent. It has been built with blue stones and has grey brick decorations. Small, octagon windows brighten up the house and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "356",
+      "street": "Schuster Hill",
+      "city": "Pinellas Park",
+      "state": "New Hampshire",
+      "stateAbbr": "MS",
+      "zipCode": "14462",
+      "country": "Svalbard & Jan Mayen Islands",
+      "countryCode": "BH"
+    },
+    "price": "29124.84",
+    "rooms": {
+      "bedrooms": 1,
+      "bathrooms": 9
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Ally Kozey",
+    "userID": "U-c5210459-ce55",
+    "propertyID": "P-45a5d147-3520-436c-b5f7-d35dab451425"
+  },
+  {
+    "propertyName": "0537 Stiedemann Lake",
+    "description": "From the outside this house looks intimate and cozy. It has been built with sandstone and has tan stone decorations. Short, wide windows allow enough light to enter the home and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "0537",
+      "street": "Stiedemann Lake",
+      "city": "Irving",
+      "state": "Massachusetts",
+      "stateAbbr": "NV",
+      "zipCode": "33508-3010",
+      "country": "South Africa",
+      "countryCode": "LU"
+    },
+    "price": "4684.45",
+    "rooms": {
+      "bedrooms": 1,
+      "bathrooms": 0
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Ally Kozey",
+    "userID": "U-c5210459-ce55",
+    "propertyID": "P-9d05ecb7-c084-4824-bd0e-930bdafcbf11"
+  },
+  {
+    "propertyName": "646 Alessandra Parkways",
+    "description": "From the outside this house looks cozy. It has been built with tan stones and has granite decorations. Small, squared windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "646",
+      "street": "Alessandra Parkways",
+      "city": "Warren",
+      "state": "Missouri",
+      "stateAbbr": "AK",
+      "zipCode": "88693-5779",
+      "country": "Norway",
+      "countryCode": "PE"
+    },
+    "price": "3650.90",
+    "rooms": {
+      "bedrooms": 8,
+      "bathrooms": 10
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Rise Real Estate",
+    "userID": "U-rise-RealEstate",
+    "propertyID": "P-c70f9a33-7ee4-4069-adbf-c88cc816e6ce"
+  },
+  {
+    "propertyName": "098 Hoppe Cove",
+    "description": "From the outside this house looks posh and extravagant. It has been built with yellow pine wood and has white cedar wooden decorations. Tall, large windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "098",
+      "street": "Hoppe Cove",
+      "city": "Palm Harbor",
+      "state": "South Dakota",
+      "stateAbbr": "IN",
+      "zipCode": "47522",
+      "country": "Tonga",
+      "countryCode": "PN"
+    },
+    "price": "8955.05",
+    "rooms": {
+      "bedrooms": 10,
+      "bathrooms": 8
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Loraine Sauer",
+    "userID": "U-7da3a5a9-a936",
+    "propertyID": "P-9451ce08-c5ce-4f07-9747-c14a5f43cab5"
+  },
+  {
+    "propertyName": "64230 Howard Mountains",
+    "description": "From the outside this house looks posh and extravagant. It has been built with yellow pine wood and has white cedar wooden decorations. Tall, large windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "64230",
+      "street": "Howard Mountains",
+      "city": "Attleboro",
+      "state": "Texas",
+      "stateAbbr": "IL",
+      "zipCode": "00334",
+      "country": "Botswana",
+      "countryCode": "TN"
+    },
+    "price": "31354.69",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 5
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Olga Kulas",
+    "userID": "U-6480e6ac-32ad",
+    "propertyID": "P-e155cb37-4b3f-4431-8cfd-195aa3805fdd"
+  },
+  {
+    "propertyName": "78826 Bradtke River",
+    "description": "From the outside this house looks cozy. It has been built with tan stones and has granite decorations. Small, squared windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "78826",
+      "street": "Bradtke River",
+      "city": "Iowa City",
+      "state": "Massachusetts",
+      "stateAbbr": "WA",
+      "zipCode": "91752-2789",
+      "country": "Cameroon",
+      "countryCode": "MN"
+    },
+    "price": "16750.19",
+    "rooms": {
+      "bedrooms": 8,
+      "bathrooms": 9
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Olga Kulas",
+    "userID": "U-6480e6ac-32ad",
+    "propertyID": "P-1864663c-2909-46f7-88de-730aa5f4689e"
+  },
+  {
+    "propertyName": "5014 Helga Rue",
+    "description": "From the outside this house looks cozy. It has been built with poplar wood and has tan stone decorations. Tall, large windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "5014",
+      "street": "Helga Rue",
+      "city": "North Port",
+      "state": "Michigan",
+      "stateAbbr": "WA",
+      "zipCode": "00444-6903",
+      "country": "Georgia",
+      "countryCode": "AL"
+    },
+    "price": "42628.79",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 4
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Olen Schiller",
+    "userID": "U-d6933db6-a4a6",
+    "propertyID": "P-248ac28a-c8bc-4db1-bf18-a03a4b3c195c"
+  },
+  {
+    "propertyName": "4222 Hauck Forges",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "4222",
+      "street": "Hauck Forges",
+      "city": "Topeka",
+      "state": "Minnesota",
+      "stateAbbr": "PA",
+      "zipCode": "88228-3929",
+      "country": "Tokelau",
+      "countryCode": "PS"
+    },
+    "price": "28777.57",
+    "rooms": {
+      "bedrooms": 4,
+      "bathrooms": 9
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Rise Real Estate",
+    "userID": "U-rise-RealEstate",
+    "propertyID": "P-9d6b04cc-3efd-44b7-9bcd-d96044a34601"
+  },
+  {
+    "propertyName": "139 Guiseppe Points",
+    "description": "From the outside this house looks cozy. It has been built with poplar wood and has tan stone decorations. Tall, large windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "139",
+      "street": "Guiseppe Points",
+      "city": "Kettering",
+      "state": "North Carolina",
+      "stateAbbr": "WV",
+      "zipCode": "47636",
+      "country": "Holy See (Vatican City State)",
+      "countryCode": "BZ"
+    },
+    "price": "22979.07",
+    "rooms": {
+      "bedrooms": 8,
+      "bathrooms": 6
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Niko Williamson",
+    "userID": "U-3472ac19-e8d2",
+    "propertyID": "P-03cde00f-2951-477f-8794-30fbf5cd7c99"
+  },
+  {
+    "propertyName": "857 Lorena Harbors",
+    "description": "From the outside this house looks posh and extravagant. It has been built with yellow pine wood and has white cedar wooden decorations. Tall, large windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "857",
+      "street": "Lorena Harbors",
+      "city": "Danville",
+      "state": "Virginia",
+      "stateAbbr": "ID",
+      "zipCode": "23729-5270",
+      "country": "Somalia",
+      "countryCode": "SI"
+    },
+    "price": "30801.32",
+    "rooms": {
+      "bedrooms": 1,
+      "bathrooms": 2
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Maude Ankunding",
+    "userID": "U-30579133-e67c",
+    "propertyID": "P-80247a4a-2237-466b-9dcc-c90aac408752"
+  },
+  {
+    "propertyName": "5435 Wolff Crest",
+    "description": "From the outside this house looks magnificent. It has been built with blue stones and has grey brick decorations. Small, octagon windows brighten up the house and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "5435",
+      "street": "Wolff Crest",
+      "city": "Florence-Graham",
+      "state": "Maine",
+      "stateAbbr": "IA",
+      "zipCode": "41838-2265",
+      "country": "Malawi",
+      "countryCode": "NA"
+    },
+    "price": "6048.19",
+    "rooms": {
+      "bedrooms": 4,
+      "bathrooms": 5
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Alexane Kuhlman",
+    "userID": "U-898bbd6a-95b9",
+    "propertyID": "P-91ed1d12-4d14-4930-ba6f-b97f39906908"
+  },
+  {
+    "propertyName": "21808 Murphy Way",
+    "description": "From the outside this house looks snug and comfortable. It has been built with brown bricks and has white pine wooden decorations. Tall, squared windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "21808",
+      "street": "Murphy Way",
+      "city": "East Providence",
+      "state": "Michigan",
+      "stateAbbr": "VA",
+      "zipCode": "65471-9718",
+      "country": "Puerto Rico",
+      "countryCode": "HM"
+    },
+    "price": "23430.96",
+    "rooms": {
+      "bedrooms": 0,
+      "bathrooms": 3
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Niko Williamson",
+    "userID": "U-3472ac19-e8d2",
+    "propertyID": "P-1a224685-021f-4505-aaab-37455a099c45"
+  },
+  {
+    "propertyName": "104 Cormier Ridge",
+    "description": "From the outside this house looks old, but wonderful. It has been built with grey bricks and has walnut wood decorations. Tall, wide windows brighten up the house and have been added to the house in a very asymmetric way.",
+    "location": {
+      "buildingNumber": "104",
+      "street": "Cormier Ridge",
+      "city": "Berkeley",
+      "state": "New York",
+      "stateAbbr": "ID",
+      "zipCode": "44382-3908",
+      "country": "South Africa",
+      "countryCode": "BR"
+    },
+    "price": "42711.89",
+    "rooms": {
+      "bedrooms": 9,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Maude Ankunding",
+    "userID": "U-30579133-e67c",
+    "propertyID": "P-100f5f56-f196-486a-b24f-f5e6dfe3510d"
+  },
+  {
+    "propertyName": "638 Michel Pine",
+    "description": "From the outside this house looks snug and comfortable. It has been built with brown bricks and has white pine wooden decorations. Tall, squared windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "638",
+      "street": "Michel Pine",
+      "city": "Chula Vista",
+      "state": "Missouri",
+      "stateAbbr": "MS",
+      "zipCode": "98382",
+      "country": "Cook Islands",
+      "countryCode": "MU"
+    },
+    "price": "9157.79",
+    "rooms": {
+      "bedrooms": 2,
+      "bathrooms": 5
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Franz Gerhold",
+    "userID": "U-fc903797-11ec",
+    "propertyID": "P-4cfc66e5-4ee3-4c74-9c61-c08509844e7d"
+  },
+  {
+    "propertyName": "802 Bruen Ways",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "802",
+      "street": "Bruen Ways",
+      "city": "Huntington",
+      "state": "Vermont",
+      "stateAbbr": "LA",
+      "zipCode": "76514-7876",
+      "country": "Niger",
+      "countryCode": "GQ"
+    },
+    "price": "27773.91",
+    "rooms": {
+      "bedrooms": 2,
+      "bathrooms": 2
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Maude Ankunding",
+    "userID": "U-30579133-e67c",
+    "propertyID": "P-c141279a-2d7b-49e2-9b44-fcb8ca295114"
+  },
+  {
+    "propertyName": "9637 Pascale Mountains",
+    "description": "From the outside this house looks old, but wonderful. It has been built with grey bricks and has walnut wood decorations. Tall, wide windows brighten up the house and have been added to the house in a very asymmetric way.",
+    "location": {
+      "buildingNumber": "9637",
+      "street": "Pascale Mountains",
+      "city": "Waldorf",
+      "state": "Texas",
+      "stateAbbr": "CT",
+      "zipCode": "67870",
+      "country": "Tonga",
+      "countryCode": "BD"
+    },
+    "price": "15900.76",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 1
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Stacey Beahan",
+    "userID": "U-a0e2e0be-47ce",
+    "propertyID": "P-a1812749-a7f9-44ee-9805-8e021ade6234"
+  },
+  {
+    "propertyName": "9031 Andreane Course",
+    "description": "From the outside this house looks cozy. It has been built with tan stones and has granite decorations. Small, squared windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "9031",
+      "street": "Andreane Course",
+      "city": "Coral Springs",
+      "state": "Kansas",
+      "stateAbbr": "ND",
+      "zipCode": "67109-6146",
+      "country": "Colombia",
+      "countryCode": "AX"
+    },
+    "price": "48466.55",
+    "rooms": {
+      "bedrooms": 0,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Jabari Stiedemann",
+    "userID": "U-b4c8092d-21ba",
+    "propertyID": "P-b255de25-6e7d-47c9-8e3f-5dcabf0adbdf"
+  },
+  {
+    "propertyName": "0429 Keebler Harbor",
+    "description": "From the outside this house looks magnificent. It has been built with blue stones and has grey brick decorations. Small, octagon windows brighten up the house and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "0429",
+      "street": "Keebler Harbor",
+      "city": "Placentia",
+      "state": "Montana",
+      "stateAbbr": "CA",
+      "zipCode": "14164",
+      "country": "Marshall Islands",
+      "countryCode": "IS"
+    },
+    "price": "43966.36",
+    "rooms": {
+      "bedrooms": 8,
+      "bathrooms": 0
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Jabari Stiedemann",
+    "userID": "U-b4c8092d-21ba",
+    "propertyID": "P-750a6cb8-3120-4656-a0a8-533c381c8443"
+  },
+  {
+    "propertyName": "465 Fisher Loaf",
+    "description": "From the outside this house looks cozy. It has been built with tan stones and has granite decorations. Small, squared windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "465",
+      "street": "Fisher Loaf",
+      "city": "Gardena",
+      "state": "South Dakota",
+      "stateAbbr": "UT",
+      "zipCode": "07197",
+      "country": "China",
+      "countryCode": "PK"
+    },
+    "price": "41603.19",
+    "rooms": {
+      "bedrooms": 4,
+      "bathrooms": 5
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Emil Beier",
+    "userID": "U-f6f9b9e5-e3b4",
+    "propertyID": "P-30216074-87c5-4aa6-9084-8202307335af"
+  },
+  {
+    "propertyName": "0809 Isom Shoal",
+    "description": "From the outside this house looks magnificent. It has been built with blue stones and has grey brick decorations. Small, octagon windows brighten up the house and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "0809",
+      "street": "Isom Shoal",
+      "city": "Caguas",
+      "state": "Idaho",
+      "stateAbbr": "DE",
+      "zipCode": "79766-3186",
+      "country": "Cape Verde",
+      "countryCode": "TL"
+    },
+    "price": "30430.50",
+    "rooms": {
+      "bedrooms": 9,
+      "bathrooms": 8
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Judson Klein",
+    "userID": "U-47c0c81d-3eae",
+    "propertyID": "P-33a80c2d-355a-418e-9bc0-1a32a231b620"
+  },
+  {
+    "propertyName": "6991 Owen Meadows",
+    "description": "From the outside this house looks posh and extravagant. It has been built with yellow pine wood and has white cedar wooden decorations. Tall, large windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "6991",
+      "street": "Owen Meadows",
+      "city": "Weston",
+      "state": "New Hampshire",
+      "stateAbbr": "PA",
+      "zipCode": "84125-6344",
+      "country": "Saint Pierre and Miquelon",
+      "countryCode": "WS"
+    },
+    "price": "22081.52",
+    "rooms": {
+      "bedrooms": 4,
+      "bathrooms": 8
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Louisa Lockman",
+    "userID": "U-820cc875-c11d",
+    "propertyID": "P-64c743a1-be44-4d97-b4c2-519b4d7aa09f"
+  },
+  {
+    "propertyName": "490 Modesta Place",
+    "description": "From the outside this house looks magnificent. It has been built with blue stones and has grey brick decorations. Small, octagon windows brighten up the house and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "490",
+      "street": "Modesta Place",
+      "city": "Gulfport",
+      "state": "Massachusetts",
+      "stateAbbr": "LA",
+      "zipCode": "22158-8649",
+      "country": "Virgin Islands, British",
+      "countryCode": "FO"
+    },
+    "price": "4783.28",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 4
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Rise Real Estate",
+    "userID": "U-rise-RealEstate",
+    "propertyID": "P-7de7f81c-402e-4725-a6ef-4b2b83327716"
+  },
+  {
+    "propertyName": "9057 Jayda Highway",
+    "description": "From the outside this house looks cozy. It has been built with tan stones and has granite decorations. Small, squared windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "9057",
+      "street": "Jayda Highway",
+      "city": "West Seneca",
+      "state": "Massachusetts",
+      "stateAbbr": "IN",
+      "zipCode": "50823",
+      "country": "Senegal",
+      "countryCode": "FJ"
+    },
+    "price": "19348.62",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 8
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Jedediah Mueller",
+    "userID": "U-480cde33-75ed",
+    "propertyID": "P-81b16c2f-e8e1-4232-817c-27dcc15e1b43"
+  },
+  {
+    "propertyName": "973 Hansen Way",
+    "description": "From the outside this house looks old, but wonderful. It has been built with grey bricks and has walnut wood decorations. Tall, wide windows brighten up the house and have been added to the house in a very asymmetric way.",
+    "location": {
+      "buildingNumber": "973",
+      "street": "Hansen Way",
+      "city": "Bonita Springs",
+      "state": "Washington",
+      "stateAbbr": "MD",
+      "zipCode": "61966-6433",
+      "country": "Nepal",
+      "countryCode": "LU"
+    },
+    "price": "3563.58",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 1
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Judson Klein",
+    "userID": "U-47c0c81d-3eae",
+    "propertyID": "P-44c0c4b2-154e-4f2f-b61d-0ddf51e92955"
+  },
+  {
+    "propertyName": "9039 Schowalter Brook",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "9039",
+      "street": "Schowalter Brook",
+      "city": "Clarksville",
+      "state": "Arkansas",
+      "stateAbbr": "IN",
+      "zipCode": "54766-3687",
+      "country": "Malawi",
+      "countryCode": "AU"
+    },
+    "price": "30563.71",
+    "rooms": {
+      "bedrooms": 7,
+      "bathrooms": 2
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Alexandrine Parisian",
+    "userID": "U-ef494a82-92d4",
+    "propertyID": "P-86b3b686-cbcd-4385-8689-b953895e2904"
+  },
+  {
+    "propertyName": "354 Collier Park",
+    "description": "From the outside this house looks magnificent. It has been built with blue stones and has grey brick decorations. Small, octagon windows brighten up the house and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "354",
+      "street": "Collier Park",
+      "city": "Fargo",
+      "state": "Kentucky",
+      "stateAbbr": "TX",
+      "zipCode": "58307",
+      "country": "Heard Island and McDonald Islands",
+      "countryCode": "GH"
+    },
+    "price": "18872.71",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 3
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Alexandrine Parisian",
+    "userID": "U-ef494a82-92d4",
+    "propertyID": "P-ee451114-7e1b-43b5-93bd-d7effde71124"
+  },
+  {
+    "propertyName": "66329 Weber Key",
+    "description": "From the outside this house looks magnificent. It has been built with blue stones and has grey brick decorations. Small, octagon windows brighten up the house and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "66329",
+      "street": "Weber Key",
+      "city": "Town 'n' Country",
+      "state": "Alaska",
+      "stateAbbr": "MT",
+      "zipCode": "76338-9678",
+      "country": "Burundi",
+      "countryCode": "PM"
+    },
+    "price": "10245.41",
+    "rooms": {
+      "bedrooms": 2,
+      "bathrooms": 2
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Rise Real Estate",
+    "userID": "U-rise-RealEstate",
+    "propertyID": "P-8860a3d4-e3d7-450e-9ab7-dd51312ae94f"
+  },
+  {
+    "propertyName": "9140 Cecil Circle",
+    "description": "From the outside this house looks old, but wonderful. It has been built with grey bricks and has walnut wood decorations. Tall, wide windows brighten up the house and have been added to the house in a very asymmetric way.",
+    "location": {
+      "buildingNumber": "9140",
+      "street": "Cecil Circle",
+      "city": "Owensboro",
+      "state": "Minnesota",
+      "stateAbbr": "NH",
+      "zipCode": "27708-6440",
+      "country": "Guinea",
+      "countryCode": "BT"
+    },
+    "price": "1797.43",
+    "rooms": {
+      "bedrooms": 4,
+      "bathrooms": 0
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Olga Kulas",
+    "userID": "U-6480e6ac-32ad",
+    "propertyID": "P-5fddc777-73ff-416f-b621-a86f473fa2c4"
+  },
+  {
+    "propertyName": "895 Gia Expressway",
+    "description": "From the outside this house looks old, but wonderful. It has been built with grey bricks and has walnut wood decorations. Tall, wide windows brighten up the house and have been added to the house in a very asymmetric way.",
+    "location": {
+      "buildingNumber": "895",
+      "street": "Gia Expressway",
+      "city": "Peabody",
+      "state": "Florida",
+      "stateAbbr": "WA",
+      "zipCode": "66561-9070",
+      "country": "Botswana",
+      "countryCode": "TF"
+    },
+    "price": "49265.31",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Ian Albert Comaya",
+    "userID": "U-a8064641-6333",
+    "propertyID": "P-b060a5ba-415e-447e-bdf9-59abbafe49f2"
+  },
+  {
+    "propertyName": "58694 Jennie Mountains",
+    "description": "From the outside this house looks cozy. It has been built with poplar wood and has tan stone decorations. Tall, large windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "58694",
+      "street": "Jennie Mountains",
+      "city": "Eau Claire",
+      "state": "North Dakota",
+      "stateAbbr": "MN",
+      "zipCode": "00779-6543",
+      "country": "Timor-Leste",
+      "countryCode": "TD"
+    },
+    "price": "38614.84",
+    "rooms": {
+      "bedrooms": 9,
+      "bathrooms": 4
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Jabari Stiedemann",
+    "userID": "U-b4c8092d-21ba",
+    "propertyID": "P-e507f95e-97f9-4d1f-b5e5-93be83d7239e"
+  },
+  {
+    "propertyName": "536 Angus Point",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "536",
+      "street": "Angus Point",
+      "city": "Lacey",
+      "state": "New Mexico",
+      "stateAbbr": "CT",
+      "zipCode": "14620-2221",
+      "country": "Lebanon",
+      "countryCode": "ID"
+    },
+    "price": "48089.33",
+    "rooms": {
+      "bedrooms": 8,
+      "bathrooms": 1
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Oceane Morissette",
+    "userID": "U-4dfd54ed-fe32",
+    "propertyID": "P-5a5558a2-97f0-481e-a1c9-379f8726870a"
+  },
+  {
+    "propertyName": "798 Amira Circles",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "798",
+      "street": "Amira Circles",
+      "city": "Irvine",
+      "state": "Michigan",
+      "stateAbbr": "FL",
+      "zipCode": "83653",
+      "country": "Ghana",
+      "countryCode": "GE"
+    },
+    "price": "8130.70",
+    "rooms": {
+      "bedrooms": 7,
+      "bathrooms": 2
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Franz Gerhold",
+    "userID": "U-fc903797-11ec",
+    "propertyID": "P-633c8a9d-b592-424b-8ee8-9b365f38450d"
+  },
+  {
+    "propertyName": "3484 Ortiz Flats",
+    "description": "From the outside this house looks intimate and cozy. It has been built with sandstone and has tan stone decorations. Short, wide windows allow enough light to enter the home and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "3484",
+      "street": "Ortiz Flats",
+      "city": "Mount Prospect",
+      "state": "New Jersey",
+      "stateAbbr": "NJ",
+      "zipCode": "28683",
+      "country": "Martinique",
+      "countryCode": "KR"
+    },
+    "price": "4678.89",
+    "rooms": {
+      "bedrooms": 10,
+      "bathrooms": 0
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Emil Beier",
+    "userID": "U-f6f9b9e5-e3b4",
+    "propertyID": "P-ed9dee3c-01f2-4634-afe2-0dbed5c6f1c2"
+  },
+  {
+    "propertyName": "306 Glover Drives",
+    "description": "From the outside this house looks snug and comfortable. It has been built with brown bricks and has white pine wooden decorations. Tall, squared windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "306",
+      "street": "Glover Drives",
+      "city": "Charleston",
+      "state": "Nebraska",
+      "stateAbbr": "SD",
+      "zipCode": "94331",
+      "country": "Greece",
+      "countryCode": "MS"
+    },
+    "price": "26516.30",
+    "rooms": {
+      "bedrooms": 2,
+      "bathrooms": 9
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Ally Kozey",
+    "userID": "U-c5210459-ce55",
+    "propertyID": "P-59ad26db-b556-4dfb-9db4-1ace44278af4"
+  },
+  {
+    "propertyName": "42570 Ibrahim Walks",
+    "description": "From the outside this house looks cozy. It has been built with poplar wood and has tan stone decorations. Tall, large windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "42570",
+      "street": "Ibrahim Walks",
+      "city": "Apple Valley",
+      "state": "North Carolina",
+      "stateAbbr": "MO",
+      "zipCode": "99396-1680",
+      "country": "Guam",
+      "countryCode": "SB"
+    },
+    "price": "4008.40",
+    "rooms": {
+      "bedrooms": 0,
+      "bathrooms": 3
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Franz Gerhold",
+    "userID": "U-fc903797-11ec",
+    "propertyID": "P-d0e05308-eee2-4072-bdf8-71829824c519"
+  },
+  {
+    "propertyName": "29426 Abbott Center",
+    "description": "From the outside this house looks old, but wonderful. It has been built with grey bricks and has walnut wood decorations. Tall, wide windows brighten up the house and have been added to the house in a very asymmetric way.",
+    "location": {
+      "buildingNumber": "29426",
+      "street": "Abbott Center",
+      "city": "Logan",
+      "state": "Tennessee",
+      "stateAbbr": "TN",
+      "zipCode": "50047-3425",
+      "country": "Bermuda",
+      "countryCode": "BN"
+    },
+    "price": "16112.94",
+    "rooms": {
+      "bedrooms": 4,
+      "bathrooms": 3
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Ally Kozey",
+    "userID": "U-c5210459-ce55",
+    "propertyID": "P-fb321049-51fb-4be3-9a1c-7a61143b6356"
+  },
+  {
+    "propertyName": "9056 Moen Place",
+    "description": "From the outside this house looks intimate and cozy. It has been built with sandstone and has tan stone decorations. Short, wide windows allow enough light to enter the home and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "9056",
+      "street": "Moen Place",
+      "city": "Poinciana",
+      "state": "North Dakota",
+      "stateAbbr": "NH",
+      "zipCode": "79044-4063",
+      "country": "Indonesia",
+      "countryCode": "PL"
+    },
+    "price": "43765.14",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 2
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Niko Williamson",
+    "userID": "U-3472ac19-e8d2",
+    "propertyID": "P-09c677ec-4f18-4b60-a873-21304ea45ce2"
+  },
+  {
+    "propertyName": "88970 Bobbie Run",
+    "description": "From the outside this house looks posh and extravagant. It has been built with yellow pine wood and has white cedar wooden decorations. Tall, large windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "88970",
+      "street": "Bobbie Run",
+      "city": "Canton",
+      "state": "Arkansas",
+      "stateAbbr": "PA",
+      "zipCode": "10412",
+      "country": "Uganda",
+      "countryCode": "EC"
+    },
+    "price": "41387.54",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 10
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Alexandrine Parisian",
+    "userID": "U-ef494a82-92d4",
+    "propertyID": "P-12a7cc2b-8462-4a21-bcae-f51492ca54b5"
+  },
+  {
+    "propertyName": "14318 Isaiah Mall",
+    "description": "From the outside this house looks old, but wonderful. It has been built with grey bricks and has walnut wood decorations. Tall, wide windows brighten up the house and have been added to the house in a very asymmetric way.",
+    "location": {
+      "buildingNumber": "14318",
+      "street": "Isaiah Mall",
+      "city": "North Little Rock",
+      "state": "New Hampshire",
+      "stateAbbr": "FL",
+      "zipCode": "93785",
+      "country": "Seychelles",
+      "countryCode": "TN"
+    },
+    "price": "29689.32",
+    "rooms": {
+      "bedrooms": 6,
+      "bathrooms": 0
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Liza Rath",
+    "userID": "U-214cad30-8840",
+    "propertyID": "P-6632cea3-8847-49e8-84f8-0199876891e8"
+  },
+  {
+    "propertyName": "401 Marquardt Mission",
+    "description": "From the outside this house looks intimate and cozy. It has been built with sandstone and has tan stone decorations. Short, wide windows allow enough light to enter the home and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "401",
+      "street": "Marquardt Mission",
+      "city": "Lewisville",
+      "state": "North Carolina",
+      "stateAbbr": "AK",
+      "zipCode": "50075-9154",
+      "country": "Marshall Islands",
+      "countryCode": "DK"
+    },
+    "price": "20819.42",
+    "rooms": {
+      "bedrooms": 9,
+      "bathrooms": 5
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Olen Schiller",
+    "userID": "U-d6933db6-a4a6",
+    "propertyID": "P-5592c8b6-97b0-409b-9148-fd708c8d6392"
+  },
+  {
+    "propertyName": "676 Genevieve Street",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "676",
+      "street": "Genevieve Street",
+      "city": "Binghamton",
+      "state": "Maine",
+      "stateAbbr": "VT",
+      "zipCode": "05399",
+      "country": "Singapore",
+      "countryCode": "VA"
+    },
+    "price": "28459.52",
+    "rooms": {
+      "bedrooms": 2,
+      "bathrooms": 0
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Loraine Sauer",
+    "userID": "U-7da3a5a9-a936",
+    "propertyID": "P-8f3a3251-3c02-46bf-9fc3-472657732d20"
+  },
+  {
+    "propertyName": "475 Dasia Pines",
+    "description": "From the outside this house looks intimate and cozy. It has been built with sandstone and has tan stone decorations. Short, wide windows allow enough light to enter the home and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "475",
+      "street": "Dasia Pines",
+      "city": "Baytown",
+      "state": "North Dakota",
+      "stateAbbr": "WY",
+      "zipCode": "95562-3589",
+      "country": "Tokelau",
+      "countryCode": "MR"
+    },
+    "price": "16048.86",
+    "rooms": {
+      "bedrooms": 2,
+      "bathrooms": 6
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Oceane Morissette",
+    "userID": "U-4dfd54ed-fe32",
+    "propertyID": "P-48b7bbb8-5f0b-4624-ac2e-b84aa08f1012"
+  },
+  {
+    "propertyName": "0076 Adalberto Flat",
+    "description": "From the outside this house looks magnificent. It has been built with blue stones and has grey brick decorations. Small, octagon windows brighten up the house and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "0076",
+      "street": "Adalberto Flat",
+      "city": "Draper",
+      "state": "Missouri",
+      "stateAbbr": "WA",
+      "zipCode": "54680-1852",
+      "country": "Saint Martin",
+      "countryCode": "RW"
+    },
+    "price": "12257.61",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 3
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Alexane Kuhlman",
+    "userID": "U-898bbd6a-95b9",
+    "propertyID": "P-c3a491ff-4366-41d8-ac7a-46bd63a95f65"
+  },
+  {
+    "propertyName": "917 Stroman Forest",
+    "description": "From the outside this house looks cozy. It has been built with tan stones and has granite decorations. Small, squared windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "917",
+      "street": "Stroman Forest",
+      "city": "Hartford",
+      "state": "Georgia",
+      "stateAbbr": "GA",
+      "zipCode": "32092",
+      "country": "Mexico",
+      "countryCode": "NE"
+    },
+    "price": "39449.76",
+    "rooms": {
+      "bedrooms": 1,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Ally Kozey",
+    "userID": "U-c5210459-ce55",
+    "propertyID": "P-f461e3dc-e2fb-42d9-86f4-40acfb8db163"
+  },
+  {
+    "propertyName": "39807 Reichert Well",
+    "description": "From the outside this house looks magnificent. It has been built with blue stones and has grey brick decorations. Small, octagon windows brighten up the house and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "39807",
+      "street": "Reichert Well",
+      "city": "Ames",
+      "state": "Oklahoma",
+      "stateAbbr": "KY",
+      "zipCode": "12018",
+      "country": "Cape Verde",
+      "countryCode": "AF"
+    },
+    "price": "19682.52",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 5
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Loraine Sauer",
+    "userID": "U-7da3a5a9-a936",
+    "propertyID": "P-0dc992c6-567a-4d17-a1d2-039d0718f6a1"
+  },
+  {
+    "propertyName": "892 Crona Mount",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "892",
+      "street": "Crona Mount",
+      "city": "South Bend",
+      "state": "Kansas",
+      "stateAbbr": "WA",
+      "zipCode": "85301",
+      "country": "Eritrea",
+      "countryCode": "SJ"
+    },
+    "price": "45802.23",
+    "rooms": {
+      "bedrooms": 1,
+      "bathrooms": 4
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Jedediah Mueller",
+    "userID": "U-480cde33-75ed",
+    "propertyID": "P-3d6ee58a-1fd0-4e56-a130-0e7c244e7d18"
+  },
+  {
+    "propertyName": "7472 Witting Run",
+    "description": "From the outside this house looks snug and comfortable. It has been built with brown bricks and has white pine wooden decorations. Tall, squared windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "7472",
+      "street": "Witting Run",
+      "city": "Glen Burnie",
+      "state": "Michigan",
+      "stateAbbr": "PA",
+      "zipCode": "11478-5985",
+      "country": "Liechtenstein",
+      "countryCode": "MU"
+    },
+    "price": "20679.11",
+    "rooms": {
+      "bedrooms": 0,
+      "bathrooms": 6
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Ally Kozey",
+    "userID": "U-c5210459-ce55",
+    "propertyID": "P-f84e0896-fea3-445a-9998-f5896356c428"
+  },
+  {
+    "propertyName": "265 Easton Estates",
+    "description": "From the outside this house looks snug and comfortable. It has been built with brown bricks and has white pine wooden decorations. Tall, squared windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "265",
+      "street": "Easton Estates",
+      "city": "Mishawaka",
+      "state": "Delaware",
+      "stateAbbr": "MD",
+      "zipCode": "31854-2887",
+      "country": "Maldives",
+      "countryCode": "QA"
+    },
+    "price": "32280.14",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 3
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Maude Ankunding",
+    "userID": "U-30579133-e67c",
+    "propertyID": "P-846d0649-4611-48ac-b542-3f9189502b36"
+  },
+  {
+    "propertyName": "83829 Wuckert Shoals",
+    "description": "From the outside this house looks intimate and cozy. It has been built with sandstone and has tan stone decorations. Short, wide windows allow enough light to enter the home and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "83829",
+      "street": "Wuckert Shoals",
+      "city": "Daly City",
+      "state": "Montana",
+      "stateAbbr": "MN",
+      "zipCode": "24928",
+      "country": "Benin",
+      "countryCode": "YT"
+    },
+    "price": "42573.01",
+    "rooms": {
+      "bedrooms": 1,
+      "bathrooms": 4
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Oceane Morissette",
+    "userID": "U-4dfd54ed-fe32",
+    "propertyID": "P-82322f5b-11d6-4560-8910-ab682aa79481"
+  },
+  {
+    "propertyName": "2771 Reichel Corners",
+    "description": "From the outside this house looks magnificent. It has been built with blue stones and has grey brick decorations. Small, octagon windows brighten up the house and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "2771",
+      "street": "Reichel Corners",
+      "city": "Parma",
+      "state": "Colorado",
+      "stateAbbr": "SC",
+      "zipCode": "68912",
+      "country": "Bhutan",
+      "countryCode": "IO"
+    },
+    "price": "28551.30",
+    "rooms": {
+      "bedrooms": 0,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Jedediah Mueller",
+    "userID": "U-480cde33-75ed",
+    "propertyID": "P-269814bc-5270-40d3-b0c6-5a7ad138bec9"
+  },
+  {
+    "propertyName": "1433 Zoe Gardens",
+    "description": "From the outside this house looks posh and extravagant. It has been built with yellow pine wood and has white cedar wooden decorations. Tall, large windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "1433",
+      "street": "Zoe Gardens",
+      "city": "Fayetteville",
+      "state": "Wyoming",
+      "stateAbbr": "NM",
+      "zipCode": "63096-6533",
+      "country": "Greenland",
+      "countryCode": "CF"
+    },
+    "price": "7958.16",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 2
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Oceane Morissette",
+    "userID": "U-4dfd54ed-fe32",
+    "propertyID": "P-fbac2943-2d83-4822-94ca-4991e7592aa3"
+  },
+  {
+    "propertyName": "11575 Gennaro Roads",
+    "description": "From the outside this house looks cozy. It has been built with tan stones and has granite decorations. Small, squared windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "11575",
+      "street": "Gennaro Roads",
+      "city": "Logan",
+      "state": "Rhode Island",
+      "stateAbbr": "PA",
+      "zipCode": "46728",
+      "country": "Uzbekistan",
+      "countryCode": "MR"
+    },
+    "price": "4335.62",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 1
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Ian Albert Comaya",
+    "userID": "U-a8064641-6333",
+    "propertyID": "P-37147d97-c1c0-4455-bfef-6cc8c87bd9cb"
+  },
+  {
+    "propertyName": "366 Torphy Station",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "366",
+      "street": "Torphy Station",
+      "city": "Knoxville",
+      "state": "Connecticut",
+      "stateAbbr": "SD",
+      "zipCode": "31734-0115",
+      "country": "Swaziland",
+      "countryCode": "CC"
+    },
+    "price": "30993.91",
+    "rooms": {
+      "bedrooms": 4,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Devante Morar",
+    "userID": "U-78ee9f56-148f",
+    "propertyID": "P-4dd5ae5c-6091-436c-81e9-0d7dc8767269"
+  },
+  {
+    "propertyName": "7646 Juvenal Manors",
+    "description": "From the outside this house looks snug and comfortable. It has been built with brown bricks and has white pine wooden decorations. Tall, squared windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "7646",
+      "street": "Juvenal Manors",
+      "city": "San Diego",
+      "state": "Alabama",
+      "stateAbbr": "NC",
+      "zipCode": "36934",
+      "country": "Cocos (Keeling) Islands",
+      "countryCode": "CU"
+    },
+    "price": "12932.41",
+    "rooms": {
+      "bedrooms": 6,
+      "bathrooms": 6
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Devante Morar",
+    "userID": "U-78ee9f56-148f",
+    "propertyID": "P-d6bed9e4-72ad-4048-a92e-d305e66828a2"
+  },
+  {
+    "propertyName": "32952 Price Locks",
+    "description": "From the outside this house looks cozy. It has been built with poplar wood and has tan stone decorations. Tall, large windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "32952",
+      "street": "Price Locks",
+      "city": "Pocatello",
+      "state": "Tennessee",
+      "stateAbbr": "IA",
+      "zipCode": "30902",
+      "country": "Botswana",
+      "countryCode": "SB"
+    },
+    "price": "12911.37",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 5
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Louisa Lockman",
+    "userID": "U-820cc875-c11d",
+    "propertyID": "P-777c62a0-8610-444b-8f6d-b2eb4ab6dd52"
+  },
+  {
+    "propertyName": "9837 Fadel Rest",
+    "description": "From the outside this house looks cozy. It has been built with poplar wood and has tan stone decorations. Tall, large windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "9837",
+      "street": "Fadel Rest",
+      "city": "Pueblo",
+      "state": "Georgia",
+      "stateAbbr": "NJ",
+      "zipCode": "73867",
+      "country": "Kiribati",
+      "countryCode": "AF"
+    },
+    "price": "43008.20",
+    "rooms": {
+      "bedrooms": 4,
+      "bathrooms": 2
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Ally Kozey",
+    "userID": "U-c5210459-ce55",
+    "propertyID": "P-5ff075f1-2ace-423d-ae96-503989ba6c5f"
+  },
+  {
+    "propertyName": "6880 Greenfelder Well",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "6880",
+      "street": "Greenfelder Well",
+      "city": "Brookline",
+      "state": "Washington",
+      "stateAbbr": "HI",
+      "zipCode": "72069",
+      "country": "Lithuania",
+      "countryCode": "BV"
+    },
+    "price": "10808.70",
+    "rooms": {
+      "bedrooms": 4,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Loraine Sauer",
+    "userID": "U-7da3a5a9-a936",
+    "propertyID": "P-ae2173ca-0c72-4ffb-8b0a-ecf4a783bb1f"
+  },
+  {
+    "propertyName": "977 Theodore Haven",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "977",
+      "street": "Theodore Haven",
+      "city": "Salina",
+      "state": "Missouri",
+      "stateAbbr": "AL",
+      "zipCode": "96773-9660",
+      "country": "Djibouti",
+      "countryCode": "AL"
+    },
+    "price": "10976.36",
+    "rooms": {
+      "bedrooms": 9,
+      "bathrooms": 0
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Olga Kulas",
+    "userID": "U-6480e6ac-32ad",
+    "propertyID": "P-4fc46808-2662-4dc6-acf8-e1160c943e59"
+  },
+  {
+    "propertyName": "5677 Adams Forest",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "5677",
+      "street": "Adams Forest",
+      "city": "Yuba City",
+      "state": "Kentucky",
+      "stateAbbr": "SD",
+      "zipCode": "97847",
+      "country": "Mauritania",
+      "countryCode": "CK"
+    },
+    "price": "35856.36",
+    "rooms": {
+      "bedrooms": 6,
+      "bathrooms": 2
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Ian Albert Comaya",
+    "userID": "U-a8064641-6333",
+    "propertyID": "P-6aae87ea-1b74-433b-a31c-5f7c16e6fc74"
+  },
+  {
+    "propertyName": "8028 Kihn Point",
+    "description": "From the outside this house looks cozy. It has been built with poplar wood and has tan stone decorations. Tall, large windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "8028",
+      "street": "Kihn Point",
+      "city": "Huntington Park",
+      "state": "Hawaii",
+      "stateAbbr": "ND",
+      "zipCode": "47556-1710",
+      "country": "Botswana",
+      "countryCode": "MD"
+    },
+    "price": "21232.82",
+    "rooms": {
+      "bedrooms": 7,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Olga Kulas",
+    "userID": "U-6480e6ac-32ad",
+    "propertyID": "P-21c91952-ae3c-4649-ac4f-ec733e36638b"
+  },
+  {
+    "propertyName": "871 Cortez Common",
+    "description": "From the outside this house looks posh and extravagant. It has been built with yellow pine wood and has white cedar wooden decorations. Tall, large windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "871",
+      "street": "Cortez Common",
+      "city": "Inglewood",
+      "state": "Louisiana",
+      "stateAbbr": "NV",
+      "zipCode": "43548-1489",
+      "country": "Mongolia",
+      "countryCode": "RS"
+    },
+    "price": "25221.17",
+    "rooms": {
+      "bedrooms": 8,
+      "bathrooms": 5
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Judson Klein",
+    "userID": "U-47c0c81d-3eae",
+    "propertyID": "P-dabd2918-d5d3-4143-9aa6-0b2d658b0362"
+  },
+  {
+    "propertyName": "9007 Roy Ramp",
+    "description": "From the outside this house looks cozy. It has been built with tan stones and has granite decorations. Small, squared windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "9007",
+      "street": "Roy Ramp",
+      "city": "Johnson City",
+      "state": "Idaho",
+      "stateAbbr": "OK",
+      "zipCode": "26613",
+      "country": "Romania",
+      "countryCode": "MT"
+    },
+    "price": "17367.24",
+    "rooms": {
+      "bedrooms": 10,
+      "bathrooms": 0
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Maude Ankunding",
+    "userID": "U-30579133-e67c",
+    "propertyID": "P-01042660-cf56-49ca-969d-9433668ccceb"
+  },
+  {
+    "propertyName": "531 Melisa Shores",
+    "description": "From the outside this house looks old, but wonderful. It has been built with grey bricks and has walnut wood decorations. Tall, wide windows brighten up the house and have been added to the house in a very asymmetric way.",
+    "location": {
+      "buildingNumber": "531",
+      "street": "Melisa Shores",
+      "city": "Homestead",
+      "state": "Tennessee",
+      "stateAbbr": "NY",
+      "zipCode": "25696-7390",
+      "country": "Montenegro",
+      "countryCode": "PK"
+    },
+    "price": "47840.06",
+    "rooms": {
+      "bedrooms": 10,
+      "bathrooms": 6
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Alexane Kuhlman",
+    "userID": "U-898bbd6a-95b9",
+    "propertyID": "P-a5695928-1be1-4762-a000-f5b13c86635b"
+  },
+  {
+    "propertyName": "89115 Bayer Pines",
+    "description": "From the outside this house looks intimate and cozy. It has been built with sandstone and has tan stone decorations. Short, wide windows allow enough light to enter the home and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "89115",
+      "street": "Bayer Pines",
+      "city": "Costa Mesa",
+      "state": "Maryland",
+      "stateAbbr": "DE",
+      "zipCode": "88606-3877",
+      "country": "Sierra Leone",
+      "countryCode": "SE"
+    },
+    "price": "9312.99",
+    "rooms": {
+      "bedrooms": 4,
+      "bathrooms": 2
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Ian Albert Comaya",
+    "userID": "U-a8064641-6333",
+    "propertyID": "P-bde7b751-20de-4bd9-b389-79a9b0b05d65"
+  },
+  {
+    "propertyName": "7484 Dylan Crescent",
+    "description": "From the outside this house looks cozy. It has been built with poplar wood and has tan stone decorations. Tall, large windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "7484",
+      "street": "Dylan Crescent",
+      "city": "East Los Angeles",
+      "state": "Maine",
+      "stateAbbr": "WV",
+      "zipCode": "48239",
+      "country": "South Georgia and the South Sandwich Islands",
+      "countryCode": "FO"
+    },
+    "price": "38283.10",
+    "rooms": {
+      "bedrooms": 0,
+      "bathrooms": 8
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Stacey Beahan",
+    "userID": "U-a0e2e0be-47ce",
+    "propertyID": "P-932dc3ed-d88f-4a11-8ed5-a2dc75fb83d0"
+  },
+  {
+    "propertyName": "01334 Aufderhar Brooks",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "01334",
+      "street": "Aufderhar Brooks",
+      "city": "Elizabeth",
+      "state": "Illinois",
+      "stateAbbr": "MT",
+      "zipCode": "23451",
+      "country": "Russian Federation",
+      "countryCode": "BN"
+    },
+    "price": "14936.85",
+    "rooms": {
+      "bedrooms": 10,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Devante Morar",
+    "userID": "U-78ee9f56-148f",
+    "propertyID": "P-e70cb22b-9c5c-4b3b-aed6-8afe40e738ef"
+  },
+  {
+    "propertyName": "49007 Walter Vista",
+    "description": "From the outside this house looks magnificent. It has been built with blue stones and has grey brick decorations. Small, octagon windows brighten up the house and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "49007",
+      "street": "Walter Vista",
+      "city": "League City",
+      "state": "Tennessee",
+      "stateAbbr": "NM",
+      "zipCode": "13771-9407",
+      "country": "Kazakhstan",
+      "countryCode": "HR"
+    },
+    "price": "22911.07",
+    "rooms": {
+      "bedrooms": 4,
+      "bathrooms": 5
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Alexandrine Parisian",
+    "userID": "U-ef494a82-92d4",
+    "propertyID": "P-550c03c0-ef3e-45d1-99b6-182063b705c8"
+  },
+  {
+    "propertyName": "35612 Considine Expressway",
+    "description": "From the outside this house looks intimate and cozy. It has been built with sandstone and has tan stone decorations. Short, wide windows allow enough light to enter the home and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "35612",
+      "street": "Considine Expressway",
+      "city": "Boca Raton",
+      "state": "Minnesota",
+      "stateAbbr": "OK",
+      "zipCode": "89850-2913",
+      "country": "Venezuela",
+      "countryCode": "BR"
+    },
+    "price": "37888.35",
+    "rooms": {
+      "bedrooms": 7,
+      "bathrooms": 8
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Devante Morar",
+    "userID": "U-78ee9f56-148f",
+    "propertyID": "P-25c3eea9-fa49-418e-8aa1-6458f3a5c67b"
+  },
+  {
+    "propertyName": "56649 Hilton Crossing",
+    "description": "From the outside this house looks old, but wonderful. It has been built with grey bricks and has walnut wood decorations. Tall, wide windows brighten up the house and have been added to the house in a very asymmetric way.",
+    "location": {
+      "buildingNumber": "56649",
+      "street": "Hilton Crossing",
+      "city": "Lacey",
+      "state": "Washington",
+      "stateAbbr": "AR",
+      "zipCode": "77422",
+      "country": "Mozambique",
+      "countryCode": "PH"
+    },
+    "price": "20448.57",
+    "rooms": {
+      "bedrooms": 7,
+      "bathrooms": 2
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Oceane Morissette",
+    "userID": "U-4dfd54ed-fe32",
+    "propertyID": "P-59643e62-ab7c-4e28-8266-3b782c321c68"
+  },
+  {
+    "propertyName": "98525 Moshe Trafficway",
+    "description": "From the outside this house looks old, but wonderful. It has been built with grey bricks and has walnut wood decorations. Tall, wide windows brighten up the house and have been added to the house in a very asymmetric way.",
+    "location": {
+      "buildingNumber": "98525",
+      "street": "Moshe Trafficway",
+      "city": "Rochester Hills",
+      "state": "Wyoming",
+      "stateAbbr": "AK",
+      "zipCode": "04812",
+      "country": "Tonga",
+      "countryCode": "MT"
+    },
+    "price": "19727.92",
+    "rooms": {
+      "bedrooms": 8,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Devante Morar",
+    "userID": "U-78ee9f56-148f",
+    "propertyID": "P-45ec30d9-4d37-483a-bd71-784cca75b834"
+  },
+  {
+    "propertyName": "459 Kunze Greens",
+    "description": "From the outside this house looks snug and comfortable. It has been built with brown bricks and has white pine wooden decorations. Tall, squared windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "459",
+      "street": "Kunze Greens",
+      "city": "White Plains",
+      "state": "Oklahoma",
+      "stateAbbr": "MO",
+      "zipCode": "78386-8580",
+      "country": "Macedonia",
+      "countryCode": "PM"
+    },
+    "price": "11952.68",
+    "rooms": {
+      "bedrooms": 9,
+      "bathrooms": 10
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Ian Albert Comaya",
+    "userID": "U-a8064641-6333",
+    "propertyID": "P-76f6c3ea-cb33-46ec-a1a4-70d065d1f873"
+  },
+  {
+    "propertyName": "20085 Carolyn Parkway",
+    "description": "From the outside this house looks snug and comfortable. It has been built with brown bricks and has white pine wooden decorations. Tall, squared windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "20085",
+      "street": "Carolyn Parkway",
+      "city": "Waco",
+      "state": "Wyoming",
+      "stateAbbr": "MS",
+      "zipCode": "94600-9145",
+      "country": "Gibraltar",
+      "countryCode": "BF"
+    },
+    "price": "24659.03",
+    "rooms": {
+      "bedrooms": 0,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Niko Williamson",
+    "userID": "U-3472ac19-e8d2",
+    "propertyID": "P-010df53c-c799-4eab-a520-e24cf74e7c25"
+  },
+  {
+    "propertyName": "453 Block Pine",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "453",
+      "street": "Block Pine",
+      "city": "Peabody",
+      "state": "Wyoming",
+      "stateAbbr": "WI",
+      "zipCode": "26342-6284",
+      "country": "Senegal",
+      "countryCode": "BO"
+    },
+    "price": "2834.75",
+    "rooms": {
+      "bedrooms": 7,
+      "bathrooms": 3
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Loraine Sauer",
+    "userID": "U-7da3a5a9-a936",
+    "propertyID": "P-5d78cead-e1ba-4850-a820-fdc259ee3ab2"
+  },
+  {
+    "propertyName": "2419 Marks Overpass",
+    "description": "From the outside this house looks snug and comfortable. It has been built with brown bricks and has white pine wooden decorations. Tall, squared windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "2419",
+      "street": "Marks Overpass",
+      "city": "Schaumburg",
+      "state": "West Virginia",
+      "stateAbbr": "VA",
+      "zipCode": "04032-3087",
+      "country": "Greenland",
+      "countryCode": "PE"
+    },
+    "price": "46626.59",
+    "rooms": {
+      "bedrooms": 1,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Alexandrine Parisian",
+    "userID": "U-ef494a82-92d4",
+    "propertyID": "P-e93ade45-8a2b-4ad9-92f2-a64cbdfa4a29"
+  },
+  {
+    "propertyName": "79530 Margaret Island",
+    "description": "From the outside this house looks posh and extravagant. It has been built with yellow pine wood and has white cedar wooden decorations. Tall, large windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "79530",
+      "street": "Margaret Island",
+      "city": "New Britain",
+      "state": "Indiana",
+      "stateAbbr": "NC",
+      "zipCode": "24228-5158",
+      "country": "Norway",
+      "countryCode": "CG"
+    },
+    "price": "43539.11",
+    "rooms": {
+      "bedrooms": 7,
+      "bathrooms": 1
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Franz Gerhold",
+    "userID": "U-fc903797-11ec",
+    "propertyID": "P-03bc16e2-b035-4e39-b873-3df5fda15752"
+  },
+  {
+    "propertyName": "66161 Hudson Gateway",
+    "description": "From the outside this house looks intimate and cozy. It has been built with sandstone and has tan stone decorations. Short, wide windows allow enough light to enter the home and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "66161",
+      "street": "Hudson Gateway",
+      "city": "Gary",
+      "state": "Nebraska",
+      "stateAbbr": "CA",
+      "zipCode": "35895",
+      "country": "Madagascar",
+      "countryCode": "DO"
+    },
+    "price": "34277.62",
+    "rooms": {
+      "bedrooms": 2,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Eliezer Lubowitz",
+    "userID": "U-ae5c5f91-046c",
+    "propertyID": "P-8b6ebc44-9f41-4f8e-83ce-2e09d282cb82"
+  },
+  {
+    "propertyName": "11874 Howe Mountains",
+    "description": "From the outside this house looks intimate and cozy. It has been built with sandstone and has tan stone decorations. Short, wide windows allow enough light to enter the home and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "11874",
+      "street": "Howe Mountains",
+      "city": "Kokomo",
+      "state": "Texas",
+      "stateAbbr": "VA",
+      "zipCode": "46748",
+      "country": "Liberia",
+      "countryCode": "FO"
+    },
+    "price": "2530.74",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 3
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Maude Ankunding",
+    "userID": "U-30579133-e67c",
+    "propertyID": "P-c69f3104-05b9-4d03-bbf5-a34009f4a828"
+  },
+  {
+    "propertyName": "6345 Huel Viaduct",
+    "description": "From the outside this house looks posh and extravagant. It has been built with yellow pine wood and has white cedar wooden decorations. Tall, large windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "6345",
+      "street": "Huel Viaduct",
+      "city": "Santa Fe",
+      "state": "Utah",
+      "stateAbbr": "WA",
+      "zipCode": "29365-9353",
+      "country": "Kyrgyz Republic",
+      "countryCode": "HU"
+    },
+    "price": "43669.97",
+    "rooms": {
+      "bedrooms": 6,
+      "bathrooms": 1
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Eliezer Lubowitz",
+    "userID": "U-ae5c5f91-046c",
+    "propertyID": "P-0e5ac0a3-0032-448e-94fb-8dc052b68753"
+  },
+  {
+    "propertyName": "95932 Baumbach Expressway",
+    "description": "From the outside this house looks cozy. It has been built with poplar wood and has tan stone decorations. Tall, large windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "95932",
+      "street": "Baumbach Expressway",
+      "city": "Lodi",
+      "state": "Virginia",
+      "stateAbbr": "UT",
+      "zipCode": "04506",
+      "country": "San Marino",
+      "countryCode": "GM"
+    },
+    "price": "32463.47",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 3
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Liza Rath",
+    "userID": "U-214cad30-8840",
+    "propertyID": "P-1d68f295-2b2b-4740-80ad-8d78451ae386"
+  },
+  {
+    "propertyName": "847 Schmeler Brooks",
+    "description": "From the outside this house looks intimate and cozy. It has been built with sandstone and has tan stone decorations. Short, wide windows allow enough light to enter the home and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "847",
+      "street": "Schmeler Brooks",
+      "city": "Novato",
+      "state": "California",
+      "stateAbbr": "NH",
+      "zipCode": "15202-4529",
+      "country": "Gambia",
+      "countryCode": "ML"
+    },
+    "price": "25580.09",
+    "rooms": {
+      "bedrooms": 4,
+      "bathrooms": 1
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Jedediah Mueller",
+    "userID": "U-480cde33-75ed",
+    "propertyID": "P-680b4da1-ddc4-4355-bab7-ecb9723f2c37"
+  },
+  {
+    "propertyName": "46702 Wiegand Throughway",
+    "description": "From the outside this house looks snug and comfortable. It has been built with brown bricks and has white pine wooden decorations. Tall, squared windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "46702",
+      "street": "Wiegand Throughway",
+      "city": "Caguas",
+      "state": "Illinois",
+      "stateAbbr": "NC",
+      "zipCode": "83076-6528",
+      "country": "Afghanistan",
+      "countryCode": "VA"
+    },
+    "price": "31205.92",
+    "rooms": {
+      "bedrooms": 6,
+      "bathrooms": 3
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Oceane Morissette",
+    "userID": "U-4dfd54ed-fe32",
+    "propertyID": "P-f00fc780-81b2-4c5b-8d90-6fe3578cd021"
+  },
+  {
+    "propertyName": "8278 Daniella Camp",
+    "description": "From the outside this house looks snug and comfortable. It has been built with brown bricks and has white pine wooden decorations. Tall, squared windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "8278",
+      "street": "Daniella Camp",
+      "city": "Terre Haute",
+      "state": "Maine",
+      "stateAbbr": "GA",
+      "zipCode": "53384",
+      "country": "Heard Island and McDonald Islands",
+      "countryCode": "BM"
+    },
+    "price": "26619.91",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 8
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Stacey Beahan",
+    "userID": "U-a0e2e0be-47ce",
+    "propertyID": "P-e96ff8b8-a085-42c2-89a9-83df4f6d5cb6"
+  },
+  {
+    "propertyName": "98658 Powlowski Loop",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "98658",
+      "street": "Powlowski Loop",
+      "city": "Canton",
+      "state": "Illinois",
+      "stateAbbr": "OR",
+      "zipCode": "01123-8323",
+      "country": "Djibouti",
+      "countryCode": "GB"
+    },
+    "price": "12444.20",
+    "rooms": {
+      "bedrooms": 6,
+      "bathrooms": 7
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Ally Kozey",
+    "userID": "U-c5210459-ce55",
+    "propertyID": "P-6258e814-e72d-4d90-b27e-a7aacb05b582"
+  },
+  {
+    "propertyName": "007 Anderson Place",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "007",
+      "street": "Anderson Place",
+      "city": "Fort Lauderdale",
+      "state": "Indiana",
+      "stateAbbr": "MO",
+      "zipCode": "25457-2340",
+      "country": "Antarctica (the territory South of 60 deg S)",
+      "countryCode": "YT"
+    },
+    "price": "21455.83",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 5
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Niko Williamson",
+    "userID": "U-3472ac19-e8d2",
+    "propertyID": "P-d0332fb4-97a8-4ab9-a704-f79331153582"
+  },
+  {
+    "propertyName": "219 Rogahn Canyon",
+    "description": "From the outside this house looks cozy. It has been built with tan stones and has granite decorations. Small, squared windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "219",
+      "street": "Rogahn Canyon",
+      "city": "Pompano Beach",
+      "state": "New Jersey",
+      "stateAbbr": "NJ",
+      "zipCode": "18708-3282",
+      "country": "Niger",
+      "countryCode": "PA"
+    },
+    "price": "35011.92",
+    "rooms": {
+      "bedrooms": 2,
+      "bathrooms": 5
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Louisa Lockman",
+    "userID": "U-820cc875-c11d",
+    "propertyID": "P-ab35b7ef-44eb-47a8-ab7f-34e74ef6b52b"
+  },
+  {
+    "propertyName": "0167 Ruecker Rapid",
+    "description": "From the outside this house looks cozy. It has been built with tan stones and has granite decorations. Small, squared windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "0167",
+      "street": "Ruecker Rapid",
+      "city": "Toms River",
+      "state": "Maryland",
+      "stateAbbr": "ND",
+      "zipCode": "04977",
+      "country": "Saint Martin",
+      "countryCode": "CH"
+    },
+    "price": "15833.33",
+    "rooms": {
+      "bedrooms": 10,
+      "bathrooms": 0
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Loraine Sauer",
+    "userID": "U-7da3a5a9-a936",
+    "propertyID": "P-7b9a3c3b-f2b4-4f2d-a337-2de711aa4f74"
+  },
+  {
+    "propertyName": "47895 Price Courts",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "47895",
+      "street": "Price Courts",
+      "city": "Reading",
+      "state": "Iowa",
+      "stateAbbr": "AL",
+      "zipCode": "49516",
+      "country": "Azerbaijan",
+      "countryCode": "BO"
+    },
+    "price": "39241.68",
+    "rooms": {
+      "bedrooms": 2,
+      "bathrooms": 3
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Judson Klein",
+    "userID": "U-47c0c81d-3eae",
+    "propertyID": "P-381d168b-249c-467f-9346-f4398db8ff15"
+  },
+  {
+    "propertyName": "619 Quitzon Extension",
+    "description": "From the outside this house looks intimate and cozy. It has been built with sandstone and has tan stone decorations. Short, wide windows allow enough light to enter the home and have been added to the house in a mostly symmetric way.",
+    "location": {
+      "buildingNumber": "619",
+      "street": "Quitzon Extension",
+      "city": "Santa Clara",
+      "state": "Wisconsin",
+      "stateAbbr": "FL",
+      "zipCode": "65316",
+      "country": "Ireland",
+      "countryCode": "RW"
+    },
+    "price": "36232.20",
+    "rooms": {
+      "bedrooms": 6,
+      "bathrooms": 10
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Oceane Morissette",
+    "userID": "U-4dfd54ed-fe32",
+    "propertyID": "P-ac1f42d4-4d45-425b-8835-4c12823623de"
+  },
+  {
+    "propertyName": "191 Lockman Corner",
+    "description": "From the outside this house looks cozy. It has been built with tan stones and has granite decorations. Small, squared windows let in plenty of light and have been added to the house in a fairly symmetrical pattern.",
+    "location": {
+      "buildingNumber": "191",
+      "street": "Lockman Corner",
+      "city": "Tulare",
+      "state": "Nevada",
+      "stateAbbr": "RI",
+      "zipCode": "21082-9015",
+      "country": "Azerbaijan",
+      "countryCode": "WS"
+    },
+    "price": "3370.64",
+    "rooms": {
+      "bedrooms": 6,
+      "bathrooms": 3
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "sale",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Franz Gerhold",
+    "userID": "U-fc903797-11ec",
+    "propertyID": "P-de97ecb2-fa38-4875-840e-afd6666fb1fb"
+  },
+  {
+    "propertyName": "8830 Taya Terrace",
+    "description": "From the outside this house looks cozy. It has been built with poplar wood and has tan stone decorations. Tall, large windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "8830",
+      "street": "Taya Terrace",
+      "city": "St. Paul",
+      "state": "Wisconsin",
+      "stateAbbr": "NC",
+      "zipCode": "64141",
+      "country": "Honduras",
+      "countryCode": "CH"
+    },
+    "price": "6002.05",
+    "rooms": {
+      "bedrooms": 2,
+      "bathrooms": 9
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Louisa Lockman",
+    "userID": "U-820cc875-c11d",
+    "propertyID": "P-da5ee426-65ad-435c-b5e7-66a30670ba60"
+  },
+  {
+    "propertyName": "222 Schaefer Meadow",
+    "description": "From the outside this house looks old, but wonderful. It has been built with grey bricks and has walnut wood decorations. Tall, wide windows brighten up the house and have been added to the house in a very asymmetric way.",
+    "location": {
+      "buildingNumber": "222",
+      "street": "Schaefer Meadow",
+      "city": "Arlington Heights",
+      "state": "Oregon",
+      "stateAbbr": "OH",
+      "zipCode": "54191",
+      "country": "Croatia",
+      "countryCode": "GE"
+    },
+    "price": "32801.54",
+    "rooms": {
+      "bedrooms": 2,
+      "bathrooms": 10
+    },
+    "tags": {
+      "propertyType": "apartment",
+      "listingType": "rent",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Judson Klein",
+    "userID": "U-47c0c81d-3eae",
+    "propertyID": "P-c2763288-19c1-44aa-a495-fb39b9197279"
+  },
+  {
+    "propertyName": "51355 Johnson Cape",
+    "description": "From the outside this house looks cozy. It has been built with poplar wood and has tan stone decorations. Tall, large windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "51355",
+      "street": "Johnson Cape",
+      "city": "Sterling Heights",
+      "state": "Maine",
+      "stateAbbr": "NV",
+      "zipCode": "63500-3282",
+      "country": "Macedonia",
+      "countryCode": "KM"
+    },
+    "price": "44664.83",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 5
+    },
+    "tags": {
+      "propertyType": "condo",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Emil Beier",
+    "userID": "U-f6f9b9e5-e3b4",
+    "propertyID": "P-6b430adf-9183-4a33-a804-b5eb2a311c92"
+  },
+  {
+    "propertyName": "3156 O'Keefe Curve",
+    "description": "From the outside this house looks old, but wonderful. It has been built with grey bricks and has walnut wood decorations. Tall, wide windows brighten up the house and have been added to the house in a very asymmetric way.",
+    "location": {
+      "buildingNumber": "3156",
+      "street": "O'Keefe Curve",
+      "city": "Santa Ana",
+      "state": "Alabama",
+      "stateAbbr": "MS",
+      "zipCode": "56814-5110",
+      "country": "Lao People's Democratic Republic",
+      "countryCode": "MS"
+    },
+    "price": "37408.04",
+    "rooms": {
+      "bedrooms": 0,
+      "bathrooms": 8
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "sale",
+      "isAvailable": false
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Loraine Sauer",
+    "userID": "U-7da3a5a9-a936",
+    "propertyID": "P-0249e3a9-6f5f-4bcd-95f6-3b34ff08d42d"
+  },
+  {
+    "propertyName": "96781 Moen Mission",
+    "description": "From the outside this house looks intimate and cozy. It has been built with fir wood and has fir wooden decorations. Large, octagon windows allow enough light to enter the home and have been added to the house in a very symmetric way.",
+    "location": {
+      "buildingNumber": "96781",
+      "street": "Moen Mission",
+      "city": "Lorain",
+      "state": "Connecticut",
+      "stateAbbr": "FL",
+      "zipCode": "81877-6582",
+      "country": "Aruba",
+      "countryCode": "GL"
+    },
+    "price": "28289.66",
+    "rooms": {
+      "bedrooms": 7,
+      "bathrooms": 4
+    },
+    "tags": {
+      "propertyType": "lot-only",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Alexane Kuhlman",
+    "userID": "U-898bbd6a-95b9",
+    "propertyID": "P-cad8bb18-56ab-4b17-a3c9-8629cfd6ad0c"
+  },
+  {
+    "propertyName": "685 Georgette Hills",
+    "description": "From the outside this house looks snug and comfortable. It has been built with brown bricks and has white pine wooden decorations. Tall, squared windows add to the overall style of the house and have been added to the house in a fairly asymmetrical pattern.",
+    "location": {
+      "buildingNumber": "685",
+      "street": "Georgette Hills",
+      "city": "Weston",
+      "state": "Kansas",
+      "stateAbbr": "IA",
+      "zipCode": "94437-6037",
+      "country": "Saint Martin",
+      "countryCode": "PL"
+    },
+    "price": "26093.92",
+    "rooms": {
+      "bedrooms": 4,
+      "bathrooms": 5
+    },
+    "tags": {
+      "propertyType": "house",
+      "listingType": "rent",
+      "isAvailable": true
+    },
+    "appointments": [],
+    "images": [
+      "./assets/img/default1.jpg",
+      "./assets/img/default2.jpg",
+      "./assets/img/default3.jpg",
+      "./assets/img/default4.jpg",
+      "./assets/img/default5.jpg"
+    ],
+    "ownerName": "Oceane Morissette",
+    "userID": "U-4dfd54ed-fe32",
+    "propertyID": "P-e7cd439e-1c2a-4a2d-ab09-b55a964c9756"
+  }
+]

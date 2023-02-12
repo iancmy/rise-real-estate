@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rise Real Estate | Home</title>
+    <link rel="icon" href="./assets/logo/icon_lightmode.png" />
+
+    <!-- jQuery CDN -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+
+    <!-- Initialization -->
+    <script
+      defer
+      type="module"
+      src="./assets/js/modules/initialize.js"
+    ></script>
+
+    <!-- Google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Fontawesome icons -->
+    <script
+      src="https://kit.fontawesome.com/f761f426a2.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- CSS links -->
+    <link rel="stylesheet" href="./assets/css/main.css" />
+    <link rel="stylesheet" href="./assets/css/index.css" />
+
+    <!-- JS scripts -->
+    <script type="module" src="./assets/js/index.js"></script>
+  </head>
+  <body>
+    <header id="nav-bar-container"></header>
+    <main>
+      <section id="hero">
+        <h1>Rise anywhere.</h1>
+        <input
+          type="search"
+          name="search"
+          id="search"
+          title="Search Properties"
+          placeholder="&#128269; Enter an address, city, or ZIP code"
+        />
+      </section>
+      <section id="news">
+        <h2>News and Updates</h2>
+        <div class="article-container">
+          <article>
+            <img src="./assets/img/news1.jpg" alt="News 1" />
+            <div>
+              <p>New home at the Village!</p>
+              <a href="#">View more</a>
+            </div>
+          </article>
+          <article>
+            <img src="./assets/img/news2.jpg" alt="News 2" />
+            <div>
+              <p>Modern house designs</p>
+              <a href="#">View more</a>
+            </div>
+          </article>
+          <article>
+            <img src="./assets/img/news3.jpg" alt="News 3" />
+            <div>
+              <p>Going green</p>
+              <a href="#">View more</a>
+            </div>
+          </article>
+        </div>
+      </section>
+      <section id="newsletter">
+        <div>
+          <header>
+            <h2>Newsletter Sign Up</h2>
+            <h3>Be the first to know about the latest news and updates!</h3>
+          </header>
+          <form action="./thank-you.html" id="lead" novalidate>
+            <p>We will not send spammy emails, promise!</p>
+            <div>
+              <input
+                type="email"
+                name="email"
+                id="email"
+                placeholder="Email address"
+              />
+              <button type="submit" class="button primary">Subscribe</button>
+            </div>
+          </form>
+        </div>
+      </section>
+    </main>
+    <footer id="footer-container"></footer>
+  </body>
+</html>

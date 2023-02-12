@@ -1,0 +1,158 @@
+main header {
+  margin-bottom: 2rem;
+}
+
+main header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+  margin: 2rem 0 1rem 0;
+}
+
+main header h2 {
+  font-size: 1.25rem;
+  text-align: center;
+  padding: 0 4rem;
+}
+
+main > section {
+  display: flex;
+  justify-content: center;
+}
+
+main > section > * {
+  margin: 0 1rem;
+}
+
+#contact-form {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.25rem;
+}
+
+#contact-form > * {
+  width: 100%;
+}
+
+#contact-form label:not(.input-label) {
+  margin-bottom: 0.25rem;
+}
+
+#contact-form p.user-logged-in {
+  color: white;
+  text-align: center;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  border-radius: 0.5rem;
+  background-color: var(--orange-50);
+}
+
+#images {
+  width: 30%;
+  display: flex;
+  align-items: center;
+}
+
+#images > * {
+  width: 100%;
+  border-radius: 0.5rem;
+}
+
+form label.warning {
+  margin-bottom: 0;
+}
+
+form label,
+#location h3 {
+  font-size: 1.25rem;
+  font-weight: 900;
+  margin-bottom: 0.75rem;
+}
+
+form label:has(+ p.user-logged-in) {
+  margin-bottom: 0;
+}
+
+.input-label {
+  font-size: 0.8rem;
+  margin: 0 0.5rem;
+}
+
+#email,
+#subject,
+#message,
+form label,
+form > button,
+form p {
+  grid-column: 1 / 3;
+}
+
+select.has-not-selected {
+  color: gray;
+}
+
+#location {
+  display: flex;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: var(--orange-10);
+}
+
+#location h3 {
+  font-weight: 900;
+}
+
+#map_container {
+  position: relative;
+  text-align: right;
+  height: 225px;
+  width: 400px;
+  z-index: 1;
+  margin-bottom: 0.5rem;
+}
+
+#googlemaps {
+  overflow: hidden;
+  background: none !important;
+  width: 100%;
+  height: 225px;
+  border-radius: 0.5rem;
+}
+
+#location > p {
+  font-size: 0.75rem;
+  font-weight: 500;
+  margin-bottom: 0.4rem;
+}
+
+.ui-dialog {
+  font-family: "Roboto", sans-serif;
+  top: 0;
+  position: fixed;
+  padding: 0.4rem;
+  border-radius: 0.5rem;
+  transform: translateY(-50%);
+  background-color: white;
+  box-shadow: 10px 10px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.ui-dialog-titlebar {
+  color: white;
+  background: none;
+  background-color: var(--orange-50);
+  border: none;
+  border-radius: 0.5rem;
+}
+
+.ui-button {
+  border: none;
+  background: none;
+  background-color: white;
+}
+
+.ui-dialog-content {
+  font-size: 0.9rem;
+}

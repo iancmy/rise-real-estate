@@ -1,0 +1,115 @@
+#hero {
+  background-image: url(../img/hero.jpg);
+  background-size: cover;
+  width: 99%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding-bottom: 5%;
+  border-radius: 0.5rem;
+}
+
+#hero * {
+  margin: 0.5rem 0;
+}
+
+#hero h1 {
+  text-align: center;
+  font-weight: 700;
+  color: white;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);
+}
+
+#hero input {
+  width: 50%;
+  height: 2.5rem;
+  box-shadow: 0 1px 4px 2px rgba(0, 0, 0, 0.4);
+}
+
+#news h2 {
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+.article-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.article-container article {
+  overflow: hidden;
+  width: 30%;
+}
+
+.article-container article * {
+  margin: 0.15rem 0;
+}
+
+.article-container article img {
+  border-radius: 0.5rem;
+  width: 100%;
+}
+
+.article-container article > div {
+  display: flex;
+}
+
+.article-container article p {
+  flex: 1 1;
+  font-size: 0.9rem;
+  font-weight: 900;
+}
+
+.article-container article a {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+#newsletter {
+  width: 70%;
+}
+
+#newsletter > div {
+  display: flex;
+  background-color: var(--orange-10);
+  border-radius: 0.5rem;
+  padding: 1.25rem;
+}
+
+#newsletter header {
+  flex: 1 1;
+}
+
+#newsletter h2 {
+  font-weight: 700;
+}
+
+#newsletter h3 {
+  font-size: 1.25rem;
+}
+
+#newsletter form {
+  display: flex;
+  text-align: right;
+  gap: 0.75rem;
+  flex-direction: column;
+}
+
+#newsletter form > div {
+  display: flex;
+  gap: 0.25rem;
+}
+
+#newsletter form > div > * {
+  height: 2rem;
+}
+
+#email {
+  flex: 1 1;
+}
+
+#newsletter p {
+  font-style: italic;
+}

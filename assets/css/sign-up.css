@@ -1,0 +1,46 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+main h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+  margin: 2rem 0 1rem 0;
+}
+
+main h2 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  text-align: center;
+  padding: 0 4rem;
+  margin-bottom: 2rem;
+}
+
+form {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+form label {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+form label.sub {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+form label,
+form #email,
+form input[type="password"],
+form button {
+  grid-column: 1 / 3;
+}

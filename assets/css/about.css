@@ -1,0 +1,44 @@
+#logo-and-slogan {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+#logo-and-slogan h2 {
+  font-size: 1.75rem;
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
+#mission-vision {
+  width: 90%;
+  color: var(--orange-80);
+  background-color: var(--orange-10);
+  padding-block: 2rem;
+  border-radius: 0.5rem;
+}
+
+#mission-vision > h2 {
+  font-weight: 700;
+}
+
+#mission-vision article {
+  margin: 1rem 0;
+}
+
+#mission-vision article > * {
+  margin: 1rem 0;
+}
+
+#mission-vision article h3 {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+#mission-vision article p {
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--orange-60);
+}

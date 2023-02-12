@@ -1,0 +1,212 @@
+[
+  {
+    "firstName": "Rise",
+    "lastName": "Real Estate",
+    "email": "admin@realrise.com",
+    "password": "admin",
+    "isAdmin": true,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-rise-RealEstate"
+  },
+  {
+    "firstName": "Ian Albert",
+    "lastName": "Comaya",
+    "email": "user@realrise.com",
+    "password": "user",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-a8064641-6333"
+  },
+  {
+    "firstName": "Olga",
+    "lastName": "Kulas",
+    "email": "olga51@hotmail.com",
+    "password": "boyatabo",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-6480e6ac-32ad"
+  },
+  {
+    "firstName": "Eliezer",
+    "lastName": "Lubowitz",
+    "email": "eliezer_lubowitz42@yahoo.com",
+    "password": "wegumozo",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-ae5c5f91-046c"
+  },
+  {
+    "firstName": "Alexandrine",
+    "lastName": "Parisian",
+    "email": "alexandrine.parisian@yahoo.com",
+    "password": "lahiwozu",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-ef494a82-92d4"
+  },
+  {
+    "firstName": "Liza",
+    "lastName": "Rath",
+    "email": "liza.rath48@hotmail.com",
+    "password": "gelemetu",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-214cad30-8840"
+  },
+  {
+    "firstName": "Maude",
+    "lastName": "Ankunding",
+    "email": "maude79@yahoo.com",
+    "password": "xudisari",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-30579133-e67c"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Beier",
+    "email": "emil_beier84@gmail.com",
+    "password": "darelaku",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-f6f9b9e5-e3b4"
+  },
+  {
+    "firstName": "Jabari",
+    "lastName": "Stiedemann",
+    "email": "jabari.stiedemann84@yahoo.com",
+    "password": "ruwuzeja",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-b4c8092d-21ba"
+  },
+  {
+    "firstName": "Franz",
+    "lastName": "Gerhold",
+    "email": "franz.gerhold@yahoo.com",
+    "password": "hipevoki",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-fc903797-11ec"
+  },
+  {
+    "firstName": "Niko",
+    "lastName": "Williamson",
+    "email": "niko67@gmail.com",
+    "password": "fufegihi",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-3472ac19-e8d2"
+  },
+  {
+    "firstName": "Louisa",
+    "lastName": "Lockman",
+    "email": "louisa_lockman@hotmail.com",
+    "password": "wobunolo",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-820cc875-c11d"
+  },
+  {
+    "firstName": "Ally",
+    "lastName": "Kozey",
+    "email": "ally_kozey73@yahoo.com",
+    "password": "jakamaxu",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-c5210459-ce55"
+  },
+  {
+    "firstName": "Oceane",
+    "lastName": "Morissette",
+    "email": "oceane71@gmail.com",
+    "password": "kiqaleza",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-4dfd54ed-fe32"
+  },
+  {
+    "firstName": "Judson",
+    "lastName": "Klein",
+    "email": "judson_klein74@hotmail.com",
+    "password": "taxafisu",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-47c0c81d-3eae"
+  },
+  {
+    "firstName": "Devante",
+    "lastName": "Morar",
+    "email": "devante.morar@gmail.com",
+    "password": "sepayunu",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-78ee9f56-148f"
+  },
+  {
+    "firstName": "Jedediah",
+    "lastName": "Mueller",
+    "email": "jedediah_mueller@hotmail.com",
+    "password": "xavefeji",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-480cde33-75ed"
+  },
+  {
+    "firstName": "Olen",
+    "lastName": "Schiller",
+    "email": "olen_schiller73@yahoo.com",
+    "password": "milaloru",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-d6933db6-a4a6"
+  },
+  {
+    "firstName": "Loraine",
+    "lastName": "Sauer",
+    "email": "loraine_sauer@yahoo.com",
+    "password": "sohipema",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-7da3a5a9-a936"
+  },
+  {
+    "firstName": "Alexane",
+    "lastName": "Kuhlman",
+    "email": "alexane_kuhlman@hotmail.com",
+    "password": "bijukidu",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-898bbd6a-95b9"
+  },
+  {
+    "firstName": "Stacey",
+    "lastName": "Beahan",
+    "email": "stacey_beahan74@hotmail.com",
+    "password": "canekasi",
+    "isAdmin": false,
+    "propertiesList": [],
+    "propertiesSaved": [],
+    "id": "U-a0e2e0be-47ce"
+  }
+]

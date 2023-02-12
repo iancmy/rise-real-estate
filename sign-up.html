@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign Up | Rise Real Estate</title>
+    <link rel="icon" href="./assets/logo/icon_lightmode.png" />
+
+    <!-- jQuery CDN -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+
+    <!-- Initialization -->
+    <script type="module" src="./assets/js/modules/initialize.js"></script>
+
+    <!-- Google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Fontawesome icons -->
+    <script
+      src="https://kit.fontawesome.com/f761f426a2.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- CSS links -->
+    <link rel="stylesheet" href="./assets/css/main.css" />
+    <link rel="stylesheet" href="./assets/css/sign-up.css" />
+
+    <!-- JS scripts -->
+    <script type="module" src="./assets/js/signup.js"></script>
+  </head>
+  <body>
+    <header id="nav-bar-container"></header>
+    <main id="sign-up-page">
+      <h1>Are you ready to rise?</h1>
+      <h2>
+        Do you want to be a part of a growing community to fulfill your real
+        estate needs? If so, fill up the form below and click sign up!
+      </h2>
+      <form id="sign-up" novalidate>
+        <label>Sign up</label>
+        <input
+          type="text"
+          name="first-name"
+          id="first-name"
+          placeholder="First name"
+          required
+        />
+        <input
+          type="text"
+          name="last-name"
+          id="last-name"
+          placeholder="Last name"
+          required
+        />
+        <input
+          type="email"
+          name="email"
+          id="email"
+          placeholder="Email address"
+          required
+        />
+        <input
+          type="password"
+          name="create-password"
+          id="create-password"
+          placeholder="Create password"
+          required
+        />
+        <input
+          type="password"
+          name="confirm-password"
+          id="confirm-password"
+          placeholder="Confirm password"
+          required
+        />
+        <button type="submit" class="button primary">Sign Up</button>
+        <label class="sub">
+          Already have an account? <a href="./log-in.html">Log in instead.</a>
+        </label>
+      </form>
+    </main>
+    <footer id="footer-container"></footer>
+  </body>
+</html>

@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Explore | Rise Real Estate</title>
+    <link rel="icon" href="./assets/logo/icon_lightmode.png" />
+
+    <!-- jQuery CDN -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/themes/smoothness/jquery-ui.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script>
+
+    <!-- Initialization -->
+    <script
+      defer
+      type="module"
+      src="./assets/js/modules/initialize.js"
+    ></script>
+
+    <!-- Google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Fontawesome icons -->
+    <script
+      src="https://kit.fontawesome.com/f761f426a2.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- CSS links -->
+    <link rel="stylesheet" href="./assets/css/main.css" />
+    <link rel="stylesheet" href="./assets/css/explore.css" />
+
+    <!-- JS scripts -->
+    <script type="module" src="./assets/js/explore.js"></script>
+  </head>
+  <body>
+    <header id="nav-bar-container"></header>
+    <main>
+      <header>
+        <h1>Explore</h1>
+        <div>
+          <input
+            type="search"
+            name="search"
+            id="search"
+            title="search"
+            placeholder="&#128269; Enter an address, city, or ZIP code"
+          />
+          <button type="button" class="button primary anchor" id="filters">
+            Filters
+          </button>
+        </div>
+        <form id="filter-container">
+          <header>
+            <h2>Filters</h2>
+            <button type="button" id="close-filter" class="button primary">
+              <i class="fa-solid fa-xmark"></i>
+            </button>
+          </header>
+          <div id="filter">
+            <h3>Price</h3>
+            <fieldset>
+              <label for="price-amount">Range: </label
+              ><input type="text" id="price-amount" readonly />
+              <div id="price-slider"></div>
+            </fieldset>
+            <div>
+              <h3>Rooms and Beds</h3>
+              <fieldset>
+                <h4>Bedrooms</h4>
+                <div>
+                  <input
+                    class="filter-button"
+                    type="radio"
+                    name="bedrooms"
+                    id="any-bedrooms"
+                    value="0"
+                    checked
+                  />
+                  <label class="filter-button-label" for="any-bedrooms"
+                    >Any</label
+                  >
+                  <input
+                    class="filter-button"
+                    type="radio"
+                    name="bedrooms"
+                    id="1-bedroom"
+                    value="1"
+                  />
+                  <label class="filter-button-label" for="1-bedroom">1</label>
+                  <input
+                    class="filter-button"
+                    type="radio"
+                    name="bedrooms"
+                    id="2-bedrooms"
+                    value="2"
+                  />
+                  <label class="filter-button-label" for="2-bedrooms">2</label>
+                  <input
+                    class="filter-button"
+                    type="radio"
+                    name="bedrooms"
+                    id="3-bedrooms"
+                    value="3"
+                  />
+                  <label class="filter-button-label" for="3-bedrooms">3</label>
+                  <input
+                    class="filter-button"
+                    type="radio"
+                    name="bedrooms"
+                    id="4-bedrooms"
+                    value="4"
+                  />
+                  <label class="filter-button-label" for="4-bedrooms">4</label>
+                  <input
+                    class="filter-button"
+                    type="radio"
+                    name="bedrooms"
+                    id="more-bedrooms"
+                    value="5"
+                  />
+                  <label class="filter-button-label" for="more-bedrooms"
+                    >5+</label
+                  >
+                </div>
+              </fieldset>
+              <fieldset>
+                <h4>Bathrooms</h4>
+                <div>
+                  <input
+                    class="filter-button"
+                    type="radio"
+                    name="bathrooms"
+                    id="any-bathrooms"
+                    value="0"
+                    checked
+                  />
+                  <label class="filter-button-label" for="any-bathrooms"
+                    >Any</label
+                  >
+                  <input
+                    class="filter-button"
+                    type="radio"
+                    name="bathrooms"
+                    id="1-bathroom"
+                    value="1"
+                  />
+                  <label class="filter-button-label" for="1-bathroom">1</label>
+                  <input
+                    class="filter-button"
+                    type="radio"
+                    name="bathrooms"
+                    id="2-bathrooms"
+                    value="2"
+                  />
+                  <label class="filter-button-label" for="2-bathrooms">2</label>
+                  <input
+                    class="filter-button"
+                    type="radio"
+                    name="bathrooms"
+                    id="3-bathrooms"
+                    value="3"
+                  />
+                  <label class="filter-button-label" for="3-bathrooms">3</label>
+                  <input
+                    class="filter-button"
+                    type="radio"
+                    name="bathrooms"
+                    id="4-bathrooms"
+                    value="4"
+                  />
+                  <label class="filter-button-label" for="4-bathrooms">4</label>
+                  <input
+                    class="filter-button"
+                    type="radio"
+                    name="bathrooms"
+                    id="more-bathrooms"
+                    value="5"
+                  />
+                  <label class="filter-button-label" for="more-bathrooms"
+                    >5+</label
+                  >
+                </div>
+              </fieldset>
+            </div>
+            <h3>Property Type</h3>
+            <fieldset>
+              <div>
+                <input
+                  class="filter-button"
+                  type="checkbox"
+                  name="type-lot-only"
+                  id="type-lot-only"
+                  value="type-lot-only"
+                  checked
+                />
+                <label class="filter-button-label" for="type-lot-only"
+                  >Lot Only</label
+                >
+                <input
+                  class="filter-button"
+                  type="checkbox"
+                  name="type-house"
+                  id="type-house"
+                  value="type-house"
+                  checked
+                />
+                <label class="filter-button-label" for="type-house"
+                  >House</label
+                >
+                <input
+                  class="filter-button"
+                  type="checkbox"
+                  name="type-apartment"
+                  id="type-apartment"
+                  value="type-apartment"
+                  checked
+                />
+                <label class="filter-button-label" for="type-apartment"
+                  >Apartment Unit</label
+                >
+                <input
+                  class="filter-button"
+                  type="checkbox"
+                  name="type-condo"
+                  id="type-condo"
+                  value="type-condo"
+                  checked
+                />
+                <label class="filter-button-label" for="type-condo"
+                  >Condo Unit</label
+                >
+              </div>
+            </fieldset>
+            <h3>Listing Type</h3>
+            <fieldset>
+              <div>
+                <input
+                  class="filter-button"
+                  type="checkbox"
+                  name="for-sale"
+                  id="for-sale"
+                  value="for-sale"
+                  checked
+                />
+                <label class="filter-button-label" for="for-sale"
+                  >For Sale</label
+                >
+                <input
+                  class="filter-button"
+                  type="checkbox"
+                  name="for-rent"
+                  id="for-rent"
+                  value="for-rent"
+                  checked
+                />
+                <label class="filter-button-label" for="for-rent"
+                  >For Rent</label
+                >
+              </div>
+            </fieldset>
+            <h3>Availability</h3>
+            <fieldset>
+              <input
+                class="filter-button"
+                type="radio"
+                name="availability"
+                id="avail-only"
+                value="avail-only"
+              />
+              <label class="filter-button-label" for="avail-only"
+                >Show Available Only</label
+              >
+              <input
+                class="filter-button"
+                type="radio"
+                name="availability"
+                id="avail-all"
+                value="avail-all"
+                checked
+              />
+              <label class="filter-button-label" for="avail-all"
+                >Show All</label
+              >
+            </fieldset>
+          </div>
+          <div id="form-buttons">
+            <button type="submit" class="button primary">Update</button>
+            <button type="reset" class="button">Reset</button>
+          </div>
+        </form>
+      </header>
+      <section id="property-list"></section>
+    </main>
+    <footer id="footer-container"></footer>
+  </body>
+</html>

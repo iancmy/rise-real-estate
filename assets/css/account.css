@@ -1,0 +1,548 @@
+main > div {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2rem 3rem;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+section {
+  width: 100%;
+}
+
+section > * {
+  margin: 1rem 0;
+}
+
+header h2 {
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+div.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+section header > div {
+  display: flex;
+  align-items: center;
+}
+
+section > header > div > h2 {
+  flex: 1 1;
+}
+
+#user-greet,
+#admin-greet {
+  display: flex;
+  width: 100%;
+  align-items: flex-end;
+  margin-bottom: 1rem;
+}
+
+#user-greet > h1,
+#admin-greet > h1 {
+  flex: 1 1;
+}
+
+#user-settings,
+#admin-settings {
+  font-size: 1.25rem;
+}
+
+/* jQuery UI adjust theme */
+#user-details-container.ui-tabs,
+#admin-details-container.ui-tabs {
+  width: 100%;
+  border-radius: 0.5rem;
+  border: none;
+  font-family: "Lato", sans-serif;
+}
+
+#user-details-container .ui-tabs-nav,
+#admin-details-container .ui-tabs-nav {
+  padding: 0.75rem 0.5rem 0 0.5rem;
+  border-radius: 0.5rem 0.5rem 0 0;
+  border: none;
+  background: var(--orange-10);
+}
+
+#user-details-container .ui-tabs-panel,
+#admin-details-container .ui-tabs-panel {
+  border-radius: 0 0 0.5rem 0.5rem;
+  background: var(--orange-20);
+  box-shadow: 0 -3px 3px 0 rgba(0, 0, 0, 0.4);
+}
+
+#user-details-container .ui-tabs-tab,
+#admin-details-container .ui-tabs-tab {
+  border-radius: 0.5rem 0.5rem 0 0;
+  border: none;
+}
+
+#user-details-container .ui-state-default,
+#admin-details-container .ui-state-default {
+  background: var(--orange-10);
+  box-shadow: 0 -2px 2px 0 rgba(0, 0, 0, 0.4);
+}
+
+#user-details-container .ui-state-default *,
+#admin-details-container .ui-state-default * {
+  color: var(--orange-80);
+}
+
+#user-details-container .ui-state-hover *,
+#admin-details-container .ui-state-hover * {
+  color: black;
+}
+
+#user-details-container .ui-tabs-active,
+#admin-details-container .ui-tabs-active {
+  background: var(--orange-20);
+  box-shadow: 0 -3px 3px 0 rgba(0, 0, 0, 0.4);
+}
+
+#user-details-container .ui-tabs-active *,
+#admin-details-container .ui-tabs-active * {
+  color: black;
+}
+
+/* Adjust pagination button styles */
+
+button.page {
+  font-size: 0.75rem;
+}
+
+button.page.disabled {
+  background-color: var(--orange-30);
+}
+
+/* Property Saved */
+#list-new-property,
+#new-user {
+  border-radius: 100px;
+}
+
+.tag {
+  color: white;
+  padding: 0.15rem 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  border-radius: 1rem;
+  background-color: var(--orange-50);
+}
+
+.tag.avail {
+  background-color: var(--orange-50);
+}
+
+.tag.not-avail {
+  color: var(--orange-60);
+  background-color: var(--orange-20);
+}
+
+.property {
+  display: flex;
+  background-color: var(--orange-10);
+  width: 100%;
+  height: 12rem;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  gap: 1.25rem;
+}
+
+.property-image {
+  object-fit: cover;
+  height: 100%;
+  width: 17rem;
+  border-radius: 0.5rem;
+}
+
+.property-info {
+  flex: 1 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.property-header {
+  width: 100%;
+  height: 20%;
+  display: flex;
+  flex-direction: row;
+  margin: 0.5rem 0;
+}
+
+.property-header-left {
+  flex: 1 1;
+}
+
+.property-header-left > h2 {
+  margin-right: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.property-details {
+  flex: 1 1;
+  width: 100%;
+  display: flex;
+  gap: 1rem;
+}
+
+.property-details-left {
+  width: 20%;
+  padding: 0;
+}
+
+.property-details-right {
+  padding: 0;
+}
+
+.property-price {
+  font-size: 1rem;
+  font-weight: 700;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  background-color: var(--orange-50);
+}
+
+.property-location {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--orange-50);
+  margin-bottom: 0.5rem;
+}
+
+.property-footer {
+  display: flex;
+}
+
+.property-footer-left {
+  flex: 1 1;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.property-footer-right {
+  display: flex;
+  gap: 1rem;
+}
+
+.property-owner {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.property-rooms {
+  display: flex;
+  gap: 3rem;
+}
+
+h2.no-result {
+  color: black;
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+h2.no-result + p > a {
+  color: var(--orange-70);
+}
+
+.ellipsis {
+  color: var(--orange-50);
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+.pagination {
+  width: 50%;
+  display: flex;
+}
+
+#property-list-headings,
+#lead-list-headings,
+#user-list-headings,
+#property-list-items,
+#leads-list-items,
+#users-list-items,
+.property-list-item,
+.lead-list-item,
+.user-list-item {
+  display: flex;
+  width: 100%;
+  gap: 0.25rem;
+}
+
+#property-list-items,
+#leads-list-items,
+#users-list-items {
+  flex-direction: column;
+}
+
+#property-list-headings > *,
+#lead-list-headings > *,
+#user-list-headings > * {
+  font-size: 0.8rem;
+  font-weight: 900;
+  background-color: var(--orange-10);
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  text-align: center;
+}
+
+#property-list-items a.view-property,
+#leads-list-items a.view-item,
+#users-list-items a.edit-user {
+  color: black;
+  text-align: center;
+  flex: 0.24 0;
+}
+
+#leads-list-items a.view-item.disabled {
+  background-color: var(--orange-30);
+  color: var(--orange-50);
+  text-align: center;
+  flex: 0.24 0;
+  pointer-events: none;
+}
+
+#property-list-items a.edit-property {
+  color: black;
+}
+
+#property-list-items a.edit-property.disabled {
+  background-color: var(--orange-30);
+  pointer-events: none;
+}
+
+#property-list-items a.delete-property,
+#users-list-items a.delete-user {
+  color: white;
+  background-color: rgb(255, 60, 60);
+}
+
+#leads-list-items a.delete-item {
+  color: white;
+  background-color: rgb(255, 60, 60);
+  text-align: center;
+  flex: 0.205 0;
+}
+
+#property-list-items a.view-property:hover,
+#users-list-items a.edit-user:hover {
+  color: var(--orange-90);
+}
+
+.user-list-item > p:nth-child(1),
+#user-list-headings > p:nth-child(1) {
+  width: 8rem;
+}
+
+#property-list-headings > p:nth-child(1),
+#lead-list-headings > p:nth-child(1),
+.property-list-item > p:nth-child(1),
+.lead-list-item > p:nth-child(1) {
+  width: 5rem;
+}
+
+.user-list-item > p:nth-child(2),
+#user-list-headings > p:nth-child(2),
+#property-list-headings > p:nth-child(2),
+#lead-list-headings > p:nth-child(2),
+.property-list-item > p:nth-child(2),
+.lead-list-item > p:nth-child(2) {
+  flex: 0.5 1;
+}
+
+.user-list-item > .user-tags,
+#user-list-headings > p:nth-child(3),
+#property-list-headings > p:nth-child(3),
+#lead-list-headings > p:nth-child(3),
+.property-list-item > .property-tags,
+.lead-list-item > .lead-tags {
+  flex: 2 1;
+}
+
+.user-list-item > p:nth-child(4),
+#user-list-headings > p:nth-child(4),
+#property-list-headings > p:nth-child(4),
+#lead-list-headings > p:nth-child(4) {
+  flex: 0.24 0;
+}
+
+.user-list-item > p:nth-child(5),
+#users-list-headings > p:nth-child(5),
+#property-list-headings > p:nth-child(5),
+#lead-list-headings > p:nth-child(5) {
+  flex: 0.205 0;
+}
+
+.property-list-item > *,
+.lead-list-item > *,
+.user-list-item > * {
+  font-size: 0.8rem;
+  font-weight: 700;
+  background-color: var(--orange-40);
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.property-list-item .tag,
+.lead-list-item .tag,
+.user-list-item .tag {
+  background-color: var(--orange-70);
+}
+
+/* Account forms */
+.account-forms {
+  display: none;
+  height: 80%;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 40%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.5rem;
+  background-color: white;
+  box-shadow: 0 1px 10px 2px rgba(0, 0, 0, 0.3);
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+
+.account-forms.delete {
+  height: auto;
+}
+
+.account-forms.message {
+  height: auto;
+}
+
+.account-forms.message h3 {
+  font-weight: 700;
+}
+
+.account-forms.message p {
+  margin: 0 2rem 1rem 2rem;
+  font-size: 1rem;
+}
+
+.account-forms.delete button.delete {
+  background-color: rgb(255, 60, 60);
+}
+
+.account-forms header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-color: var(--orange-50);
+  border-bottom: 1px solid gray;
+  border-radius: 0.5rem 0.5rem 0 0;
+  padding: 0.5rem 1rem;
+  box-shadow: 0 3px 2px -2px rgba(0, 0, 0, 0.4);
+  z-index: 2;
+}
+
+.account-forms header h2 {
+  font-weight: 700;
+  flex: 1 1;
+}
+
+.account-forms label {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.account-forms > div {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 80%;
+  padding: 1rem 1.5rem;
+  gap: 0.5rem;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.account-forms > div > fieldset:first-child {
+  display: flex;
+  flex-direction: column;
+}
+
+.account-forms > div > fieldset:first-child input {
+  height: 2.5rem;
+  font-size: 1rem;
+}
+
+.account-forms > div > fieldset:first-child textarea {
+  font-size: 1rem;
+}
+
+.account-forms fieldset {
+  border: none;
+}
+
+.account-forms > *,
+.account-forms fieldset > * {
+  margin: 0 0 0.75rem 0;
+}
+
+.account-forms fieldset > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+}
+
+.account-forms .account-form-button {
+  position: absolute;
+  left: -100%;
+}
+
+.account-forms .account-form-button-label {
+  flex: 1 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-weight: 700;
+  color: var(--orange-70);
+  background-color: var(--orange-10);
+  height: 3rem;
+  font-size: 0.8rem;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  padding: 0.25rem 0.75rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  transition: all 250ms ease-in-out;
+}
+
+.account-forms .account-form-button:checked + .account-form-button-label {
+  color: white;
+  background-color: var(--orange-50);
+}
+
+.account-forms .account-form-button-label:active {
+  transform: scale(0.95);
+}
+
+.account-forms button[type="submit"] {
+  width: 90%;
+  height: 3rem;
+  font-size: 1rem;
+}

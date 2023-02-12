@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Log in | Rise Real Estate</title>
+    <link rel="icon" href="./assets/logo/icon_lightmode.png" />
+
+    <!-- jQuery CDN -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+
+    <!-- Initialization -->
+    <script type="module" src="./assets/js/modules/initialize.js"></script>
+
+    <!-- Google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Fontawesome icons -->
+    <script
+      src="https://kit.fontawesome.com/f761f426a2.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- CSS links -->
+    <link rel="stylesheet" href="./assets/css/main.css" />
+    <link rel="stylesheet" href="./assets/css/log-in.css" />
+
+    <!-- JS scripts -->
+    <script type="module" src="./assets/js/login.js"></script>
+  </head>
+  <body>
+    <header id="nav-bar-container"></header>
+    <main>
+      <h1>Welcome back!</h1>
+      <form id="log-in" novalidate>
+        <label>Log in</label>
+        <input
+          type="email"
+          name="email"
+          id="email"
+          placeholder="Email address"
+          required
+        />
+        <input
+          type="password"
+          name="password"
+          id="password"
+          placeholder="Password"
+          required
+        />
+        <button type="submit" class="button primary">Log in</button>
+        <label>
+          Don't have an account yet?
+          <a href="./sign-up.html">Rise up!</a>
+        </label>
+      </form>
+    </main>
+    <footer id="footer-container"></footer>
+  </body>
+</html>
